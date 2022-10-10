@@ -7,3 +7,20 @@ links:
         url: /about-us/vision-mission-motto-n-values
       - title: School Song
         url: /about-us/school-song
+  - title: School Information
+    url: /school-information/school-management
+    sublinks:
+      - title: School Management
+        url: /school-information/school-management
+      - title: School Rules and Regulations
+        url: /school-information/school-rules-and-regulations
+      - title: Form Teacher List
+        url: /school-information/form-teacher-list
+      - title: School Calendar
+        url: /school-information/school-calendar
+      - title: Exam Matters
+        url: /school-information/exam-matters
+      - title: School Uniforms and Books
+        url: /school-information/school-uniforms-and-books
+      - title: Booklist 2022
+        url: /school-information/booklist-2022
