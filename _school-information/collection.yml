@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - Booklist 2022.md
       - Contact Us.md
       - School Management.md
