@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - About Us.md
       - Vision, Mission, Motto & Values.md
       - School Song.md
-      - About Us.md
