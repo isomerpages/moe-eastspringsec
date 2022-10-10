@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Uniforms and Books.md
       - Booklist 2022.md
       - Contact Us.md
       - School Management.md
