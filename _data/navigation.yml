@@ -24,3 +24,10 @@ links:
         url: /school-information/school-uniforms-and-books
       - title: Booklist 2022
         url: /school-information/booklist-2022
+  - title: Partners
+    url: /partners/parents-gateway
+    sublinks:
+      - title: Parents Gateway
+        url: /partners/parents-gateway
+      - title: Newsletters
+        url: /partners/newsletters
