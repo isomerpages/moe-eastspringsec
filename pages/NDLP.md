@@ -101,3 +101,5 @@ description: ""
 <li><a href="http://help123.sg/" target="_blank" rel="noopener">help123.sg</a></li>
 </ul>
 <h4><a href="/files/Parent%20Handbook%20I%20on%201_1%20Learning.pdf" target="_blank" rel="noopener">Parent Handbook (I) on 1_1 Learning</a></h4>
+<h4><strong>Videos on NDLP</strong></h4>
+<p><a href="https://youtu.be/3FKftVAU4eI" target="_blank" rel="noopener">Strengthening digital literacy of students | Committee of Supply 2020</a><br /><a href="https://youtu.be/fsv_Lr4WHSk" target="_blank" rel="noopener">Learn for Life &ndash; Digital Literacy</a><br /><a href="https://youtu.be/atVkNBXMVnY" target="_blank" rel="noopener">Digital Literacy &ndash; Students&rsquo; Voxpop</a><br /><a href="https://youtu.be/-TCnHCORdYc" target="_blank" rel="noopener">Digital Learning &ndash; Teachers' Experience</a><br /><a href="https://youtu.be/mSbZQNJwPuI" target="_blank" rel="noopener">Chromebooks for Education</a></p>
