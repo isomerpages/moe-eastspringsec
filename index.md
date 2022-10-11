@@ -4,14 +4,10 @@ title: East Spring Secondary School
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: NDLP
           description: National Digital Literacy
