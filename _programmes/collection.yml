@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Distinctive/ALP.md
       - Distinctive/LLP.md
       - Distinctive/.keep
       - Direct School Admission.md
