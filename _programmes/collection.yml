@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Enrichment/.keep
       - Distinctive/ALP.md
       - Distinctive/LLP.md
       - Distinctive/.keep
