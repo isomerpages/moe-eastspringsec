@@ -17,62 +17,62 @@ description: ""
 <table border="10">
 <tbody>
 <tr>
-<th colspan="2">Lenovo Chromebook 500e (2nd Gen)</th>
+<th style="text-align: center;" colspan="2">Lenovo Chromebook 500e (2nd Gen)</th>
 <td rowspan="11"><img src="/images/ndlp3.gif" /></td>
 </tr>
 <tr>
-<td><strong>Processor</strong></td>
+<td style="text-align: center;"><strong>Processor</strong></td>
 <td><strong>Intel Celeron N4120</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>RAM</strong></td>
+<td style="text-align: center;"><strong>RAM</strong></td>
 <td><strong>8GB RAM</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>Storage</strong></td>
+<td style="text-align: center;"><strong>Storage</strong></td>
 <td><strong>64GB eMMC&nbsp;</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>Display</strong></td>
+<td style="text-align: center;"><strong>Display</strong></td>
 <td><strong>11.6" Touch Screen</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>Weight</strong></td>
+<td style="text-align: center;"><strong>Weight</strong></td>
 <td><strong>1.31kg</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>HDD</strong></td>
+<td style="text-align: center;"><strong>HDD</strong></td>
 <td><strong>64GB EMMC&nbsp;</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>Battery&nbsp;</strong></td>
+<td style="text-align: center;"><strong>Battery&nbsp;</strong></td>
 <td><strong>3 Cell Li-Pol 42Wh&nbsp;</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>OS</strong></td>
+<td style="text-align: center;"><strong>OS</strong></td>
 <td><strong>Chrome&nbsp;</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>
+<td style="text-align: center;">
 <div><strong>Other features/ offer</strong></div>
 </td>
 <td><strong>Meets military-specification testing<br />Reinforced ports &amp; hinges; Drop-resistant up to 29.5" / 75cm<br />Water-resistant keyboard (330 ml) with touchpad &amp; mechanically anchored keys&nbsp;</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>Accessories</strong></td>
+<td style="text-align: center;"><strong>Accessories</strong></td>
 <td><strong>Power Adaptor, Mouse, Stylus, Carrier Bag&nbsp;</strong></td>
 </tr>
 <tr>
-<td><strong>Warranty &amp; Insurance</strong></td>
+<td style="text-align: center;"><strong>Warranty &amp; Insurance</strong></td>
 <td>Inclusive of a 3-year warranty and 3-year insurance,<br />&nbsp;including 2 repairs or 1 replacement claim</td>
 </tr>
 </tbody>
