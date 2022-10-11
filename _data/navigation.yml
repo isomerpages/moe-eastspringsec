@@ -24,6 +24,9 @@ links:
         url: /school-information/school-uniforms-and-books
       - title: Booklist 2022
         url: /school-information/booklist-2022
+  - title: Programmes
+    url: /programmes
+    sublinks: []
   - title: Partners
     url: /partners/parents-gateway
     sublinks:
