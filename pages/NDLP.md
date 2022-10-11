@@ -77,4 +77,27 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<h4><strong>Use of Edusave</strong></h4>
+<p>The cost of the device bundle can be paid using your child's Edusave account, after setting aside provision for payment of second-tier miscellaneous fees.</p>
+<p>To ensure the affordability of devices, there was a one-time Edusave top-up of $200 in April 2020 to support the purchase of the device. This is on top of the annual $290 credited into the Edusave account for Secondary School students. Most Singapore Citizen students would have sufficient funds in the Edusave account after the top-up. Should the Edusave funds be insufficient, cash out-of-pocket would be kept low.</p>
+<h4><strong>Financial Assistance</strong></h4>
+<p>For students on MOE Financial Assistance Scheme, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket will be $0.</p>
+<p>Additional subsidies are available for students who need financial assistance, and that parents should approach the ESSS General Office for more information.</p>
+<h4><strong>Roll-Out of IT Applications as part of National Digital Literacy Programme (NDLP)</strong></h4>
+<p>As part of the NDLP, schools will progressively roll out IT applications that will be vital to students&rsquo; learning experience and educational journey. In the following months, the school will roll out some or all of the following applications:</p>
+<ol>
+<li><strong>Student iCON</strong>: MOE will give every secondary school student an email address. This is a service provided by Google as part of Google Suite.&nbsp;</li>
+<li><strong>Microsoft Pro Plus</strong>: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.&nbsp;</li>
+<li><strong>Zoom</strong>: Every secondary school student will be given a Zoom free account with 40 mins time limit using the Student iCON for the students&rsquo; video conferencing needs.</li>
+</ol>
+<p>Schools may also choose to roll out applications other than those listed above. The school will need to use your child&rsquo;s/ward&rsquo;s personal data such as his/her name and class to set up user accounts. Please refer to our&nbsp;<strong><a href="/ndlp#FAQ">Frequently Asked Questions</a></strong>&nbsp;section for more information on the collection of data via these applications.</p>
+<h4><strong>Cyberwellness Resources for Parents</strong></h4>
+<p><strong>To support you in keeping your child safe online, you may refer to these resources:</strong></p>
+<ul>
+<li><a href="http://go.gov.sg/moe-cyber-wellness" target="_blank" rel="noopener">go.gov.sg/moe-cyber-wellness</a></li>
+<li><a href="https://www.moe.gov.sg/programmes/cyber-wellness" target="_blank" rel="noopener">https://www.moe.gov.sg/programmes/cyber-wellness</a></li>
+<li><a href="http://go.gov.sg/better-internet-sg" target="_blank" rel="noopener">go.gov.sg/better-internet-sg</a></li>
+<li><a href="http://sure.nlb.gov.sg/" target="_blank" rel="noopener">sure.nlb.gov.sg</a></li>
+<li><a href="http://help123.sg/" target="_blank" rel="noopener">help123.sg</a></li>
+</ul>
+<h4><a href="/files/Parent%20Handbook%20I%20on%201_1%20Learning.pdf" target="_blank" rel="noopener">Parent Handbook (I) on 1_1 Learning</a></h4>
