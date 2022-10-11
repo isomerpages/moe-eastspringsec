@@ -2,7 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - Enrichment/Character & Citizenship Education.md
+      - Enrichment/CCE.md
       - Enrichment/.keep
       - Distinctive/ALP.md
       - Distinctive/LLP.md
