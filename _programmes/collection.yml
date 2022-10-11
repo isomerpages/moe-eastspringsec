@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Instructional/C&T.md
       - Instructional/.keep
       - Enrichment/CCA.md
       - Enrichment/CCE.md
