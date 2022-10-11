@@ -3,12 +3,12 @@ url: https://eastspringsec.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
   primary-color: "#c5b296"
-  secondary-color: "#000000"
+  secondary-color: "#eeb600"
   media-colors:
     - title: media-color-one
       color: "#d72927"
     - title: media-color-two
-      color: "#f5ab12"
+      color: "#000000"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
