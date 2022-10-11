@@ -15,3 +15,4 @@ third_nav_title: Instructional
 <h4><strong>Key Events / Activities</strong></h4>
 <p>Level Wide Programmes<br />Semester 1:<br />1. Secondary 1 Orientation Camp<br />2. Secondary 1 Swim Safer Programme<br />3. Secondary 2 &amp; 4/5 NAPFA Test<br />4. Sports Leaders&rsquo; Camp<br />Semester 2:<br />5. Secondary 2 Adventure Camp<br />6. Secondary 1 &amp; 3 NAPFA Test</p>
 <p>School Wide Events<br />Semester 1:<br />1. Annual Cross Country<br />2. Annual Track &amp; Field Meet<br />3. Post Examination Programme (SEP Programmes - e.g. Cricket, Tchoukball, etc. and Inter Class Games)<br />Semester 2:<br />4. National Day Traditional Games<br />5. ACES Day Celebrations<br />6. Post Examination Programme (SEP Programmes e.g. Archery Tag, Kinball, etc. and Inter-Class Games)</p>
+<img src="/images/pe.jpg">
