@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Programmes.md
       - Instructional/English.md
       - Instructional/Mathematics.md
       - Instructional/Science.md
