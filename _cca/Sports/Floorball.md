@@ -22,3 +22,9 @@ third_nav_title: Sports
 </tr>
 </tbody>
 </table>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqC46GNKc-G79mA5zQhArWgTAtIQPlpT9-UbBaQ5Uj5hVS_FlIVyXjRWzg5SUpwurDVXm1g1LvejIG/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p><strong>CCA Name:<br /></strong>Floorball (Girls)</p>
+<p><strong>Our CCA:<br /></strong>The Floorball girls in East Spring Secondary School are made up of students who are passionate about Floorball. The CCA has a strong emphasis on physical and mental resilience with the girls constantly honing their skills to the best of their ability.</p>
+<p>All these efforts culminate towards the annual National Floorball Championships in January and July. They also participate in other Floorball competitions and carnivals organised by external organisations and other schools.&nbsp;</p>
+<p>Students are provided with leadership training and platforms to hone their leadership capabilities. The trainings sessions, physical training, enrichment activities and annual camps help to impart important values and competencies to develop the girls holistically with the aim of enabling the girls to not only be successful in school but also their future endeavours upon graduation.</p>
+<p><strong>Our Achievements:<br /></strong>2019: 'B' Div Second Round, 'C' Div First Round<br />2018: Both 'B' and 'C' Div Second Round<br />2017: 'B' Div 3rd, 'C' Div Second Round</p>
