@@ -4,8 +4,6 @@ permalink: /programmes/enrichment/cce/
 description: ""
 third_nav_title: Enrichment
 ---
-
-
 <h4><strong>Mission</strong></h4>
 <p>A Community of Resilient Citizens with Good Character</p>
 <h4><strong>Goals</strong></h4>
@@ -34,3 +32,10 @@ third_nav_title: Enrichment
 <li>Values in Action (VIA)</li>
 <li>Peer Support: every student a peer supporter through peer bonding, peer helping and peer influencing</li>
 </ul>
+<p><strong>INFORMATION FOR PARENTS</strong></p>
+<p>10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;</p>
+<p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education</strong>&nbsp;lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://eastspringsec.moe.edu.sg/qql/slot/u559/Programmes/Sexuality%20Education/2022/Annex%20A.pdf" target="_blank" rel="noopener"><u>here</u></a>.The completed form is to be submitted by 17/01/2022.&nbsp;</p>
+<p>12. Parents who wish to opt their children out of the&nbsp;<em>eTeens programme</em>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://eastspringsec.moe.edu.sg/qql/slot/u559/Programmes/Sexuality%20Education/2022/Annex%20B.pdf" target="_blank" rel="noopener"><u>here</u></a>.&nbsp;The completed form is to be submitted by 17/01/2022.</p>
+<p>13. Parents can contact the school at 6587 3805 or esss@moe.edu.sg (Attention: Mrs Jelena Phey [HOD CCE]) for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
+<p>14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.&nbsp;</p>
+<p><a href="/files/SEd%20letter%20to%20parents.pdf" target="_blank" rel="noopener">SEd letter to parents.pdf</a>&nbsp;</p>
