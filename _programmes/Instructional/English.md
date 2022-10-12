@@ -30,3 +30,10 @@ third_nav_title: Instructional
 <li>Use of elements of e-pedagogy for ICT-facilitated and HBL lesson design</li>
 <li>After-school Coaching</li>
 </ol>
+<h4><strong>Key Events / Activities</strong></h4>
+<ol>
+<li>Speak Good English Movement (SGEM) level activities</li>
+<li>Learning Journeys and Enrichment Workshops</li>
+<li>Internal and External Competitions e.g. Write for Kindness Movement, Commonwealth Essay Competition, Live On Festival, etc.</li>
+</ol>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUamCp4nGrHzkDnbzkfUYR9GFiW3QSj3tfkltJyapaHTBOY7pofdwFNni7QwtwgYdv7lkh8nmjBwX-/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
