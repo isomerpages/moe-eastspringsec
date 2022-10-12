@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - Integration Programme.md
       - Education and Career Guidance.md
       - CCE.md
