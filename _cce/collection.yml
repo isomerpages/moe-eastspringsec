@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - Education and Career Guidance.md
       - CCE.md
