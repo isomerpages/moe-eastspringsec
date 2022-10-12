@@ -26,7 +26,15 @@ links:
         url: /school-information/booklist-2022
   - title: Programmes
     url: /programmes
-    sublinks: []
+    sublinks:
+      - title: Instructional
+        url: /programmes/instructional/departments/english
+      - title: Enrichment
+        url: /programmes/enrichment/cca
+      - title: Distinctive
+        url: /programmes/distinctive/alp
+      - title: Direct School Admission
+        url: /programmes/direct-school-admission
   - title: Partners
     url: /partners/parents-gateway
     sublinks:
