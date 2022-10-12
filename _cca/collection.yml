@@ -2,26 +2,26 @@ collections:
   cca:
     output: true
     order:
+      - CCA.md
+      - Uniformed Groups/.keep
       - Uniformed Groups/NCC.md
       - Uniformed Groups/NCDCC.md
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/SJB.md
-      - Uniformed Groups/.keep
+      - Clubs & Societies/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/AVA Club.md
       - Clubs & Societies/Journalism Club.md
       - Clubs & Societies/Green Club.md
-      - Clubs & Societies/.keep
+      - Performing Arts/.keep
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Choir.md
       - Performing Arts/Drama.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Concert Band.md
-      - Performing Arts/.keep
+      - Sports/.keep
       - Sports/Badminton.md
       - Sports/Basketball.md
       - Sports/Netball.md
       - Sports/Floorball.md
-      - Sports/.keep
-      - CCA.md
