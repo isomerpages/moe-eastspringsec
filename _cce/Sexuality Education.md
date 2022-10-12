@@ -30,3 +30,46 @@ description: ""
 <p>6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 &ndash; 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one&rsquo;s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.&nbsp;</p>
 <p>7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At East Spring Secondary School, the following Sexuality Education lessons will be taught in 2022:</strong></p>
+<p style="text-align: center;"><strong>SECONDARY 1</strong></p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="228" /><col width="100" /><col width="411" /><col width="151" /></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;UNIT&quot;}"><strong>UNIT</strong></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LESSONS / DURATION&quot;}"><strong>LESSONS / DURATION</strong></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lesson Objectives\n At the end of the lesson, students will be able to:&quot;}"><strong>Lesson Objectives</strong><br /><strong>At the end of the lesson, students will be able to:</strong></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TIME PERIOD \n (e.g. Term 1 Week 2)&quot;}"><strong>TIME PERIOD</strong><br /><strong>(e.g. Term 1 Week 2)</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="1" rowspan="3" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Respectful Relationships &amp; Safety&quot;}">Respectful Relationships &amp; Safety</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1\n (60 mins)&quot;}">1<br />(60 mins)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;&middot; Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles \n &middot; Recognise that there are different forms of love (e.g. familial, platonic, romantic love) \n &middot; Recognise the importance and understand what builds healthy and supportive relationships, both online and offline \n &middot; Understand what dating is, and recognise that the readiness and interest in dating vary among individuals&quot;,&quot;6&quot;:1}">
+<ul>
+<li>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles&nbsp;</li>
+<li>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)&nbsp;</li>
+<li>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline&nbsp;</li>
+<li>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals&nbsp;</li>
+</ul>
+</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Term 3 Week 5&quot;}">Term 2 Week 6</td>
+</tr>
+<tr>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2\n (60 mins)&quot;}">2<br />(60 mins)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;&middot; Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept&quot;,&quot;6&quot;:1}">
+<ul>
+<li>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept</li>
+</ul>
+</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Term 3 Week 7&quot;}">Term 2 Week 7</td>
+</tr>
+<tr>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3\n (60 mins)&quot;}">3<br />(60 mins)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;&middot; Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences \n &middot; Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)&quot;,&quot;6&quot;:1}">
+<ul>
+<li>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences&nbsp;</li>
+<li>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
+</ul>
+</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Term 3 Week 9&quot;}">Term 2 Week 8&nbsp;</td>
+</tr>
+</tbody>
+</table>
