@@ -24,3 +24,4 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQRiiU0QrwiNp2YqenPdhM3fsZ0K91HonvT3eFyvzxSLTMTstkZWYZJ5PTdghHao2OgAzKWCxCN67o5/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
