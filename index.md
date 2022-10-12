@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/banner.gif
       key_highlights:
         - title: NDLP
           description: National Digital Literacy
@@ -18,4 +18,7 @@ sections:
         - title: LINKS
           description: For Teachers & Students
           url: /links
+        - title: Announcements
+          description: Latest News
+          url: /esss/latest-news
 ---
