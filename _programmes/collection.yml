@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Instructional/Mathematics.md
       - Instructional/Science.md
       - Instructional/Humanities.md
       - Instructional/Mother Tongue Language.md
