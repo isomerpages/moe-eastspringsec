@@ -32,3 +32,14 @@ third_nav_title: Enrichment
 <li>Values in Action (VIA)</li>
 <li>Peer Support: every student a peer supporter through peer bonding, peer helping and peer influencing</li>
 </ul>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 20%; text-align: center;"><a href="/programmes/enrichment/cce/sexuality-education">Sexuality Education</a></td>
+<td style="width: 20%; text-align: center;"><a href="/programmes/enrichment/cce/cyber-wellness">Cyber Wellness</a></td>
+<td style="width: 20%; text-align: center;"><a href="/programmes/enrichment/cce/work-experience-programme-wep">Work Experience Programme (WEP)</a></td>
+<td style="width: 20%; text-align: center;"><a href="/programmes/enrichment/cce/integration-programme">Integration Programme</a></td>
+<td style="width: 20%; text-align: center;"><a href="/programmes/enrichment/cce/education-and-career-guidance">Education and Career Guidance</a></td>
+</tr>
+</tbody>
+</table>
