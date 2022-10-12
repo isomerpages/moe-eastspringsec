@@ -34,6 +34,5 @@ third_nav_title: Instructional
 <h4><strong>Key Events / Activities</strong></h4>
 <p>SINGAPORE MATH KANGAROO CONTEST<br />(All secondary one express students)</p>
 <p style="padding-left: 40px;">- content that is similar to Singapore's Mathematics Curriculum<br />- problems require creativity, logical thinking<br />- challenge students to look at problems form a different perspective</p>
-<p>ALL SINGAPORE SECONDARY MATHEMATICS COMPETITION FOR NORMAL COURSE STUDENTS</p>
-<p>(Students from normal academic and normal technical across all levels)</p>
+<p>ALL SINGAPORE SECONDARY MATHEMATICS COMPETITION FOR NORMAL COURSE STUDENTS<br>(Students from normal academic and normal technical across all levels)</p>
 <p style="padding-left: 40px;">- stimulate greater interest and enrich students' knowledge in mathematics</p>
