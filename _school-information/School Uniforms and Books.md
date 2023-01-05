@@ -3,7 +3,8 @@ title: School Uniforms and Books
 permalink: /school-information/school-uniforms-and-books/
 description: ""
 ---
-<h3><strong>Asencio Pte Ltd</strong></h3>
+<h3><strong>School Uniform Suppliers</strong></h3>
+<h4><strong>Asencio Pte Ltd</strong></h4>
 <p><strong>For walk-in purchase:</strong></p>
 <p style="padding-left: 40px;">East Spring Secondary School<br />30 Tampines Street 34<br />Singapore 529231</p>
 <p><strong>Operating hours:</strong></p>
