@@ -2,12 +2,12 @@ collections:
   school-information:
     output: true
     order:
-      - 2023 Sec 1 Meet The Parents Session (6 Jan 2023).md
       - School Management.md
       - School Rules and Regulations.md
       - Form Teacher List.md
       - School Calendar.md
       - Exam Matters.md
+      - 2023 Sec 1 Meet The Parents Session (6 Jan 2023).md
       - School Uniforms and Books.md
       - Booklist 2023.md
       - 2023 Sec 1 Registration.md
