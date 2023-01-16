@@ -44,9 +44,9 @@ b.     Character and Citizenship Education (CCE)
 
 7\.        Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.   
 
-**Please click [here](https://eastspringsec.moe.edu.sg/qql/slot/u559/2023/2023%20ESSS%20Sex%20Ed.pdf) for** **Sexuality Education lessons that will be taught a****t East Spring Secondary School** **in 2023.**  
+**Please click [here](https://eastspringsec.moe.edu.sg/qql/slot/u559/2023/2023%20ESSS%20Sex%20Ed.pdf) for  Sexuality Education lessons that will be taught at East Spring Secondary School in 2023.**  
 
-**_eTeens_** **Programme**:  
+**<u>eTeens Programme</u>** :  
 
 8\.        _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
