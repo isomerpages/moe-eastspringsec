@@ -53,3 +53,47 @@ b.     Character and Citizenship Education (CCE)
 9\.        Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At East Spring Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-osew{background-color:#FFF;color:#545454;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-phuu{background-color:#FFF;color:#545454;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lf8r{background-color:#D9D9D9;color:#545454;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lf8r"><span style="color:black">Topics/Lessons</span></th>
+    <th class="tg-lf8r"><span style="color:black">Programme Learning Objectives</span></th>
+    <th class="tg-lf8r"><span style="color:black">Time Period</span><br><span style="color:black">(e.g. Term 3 Week 9)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-phuu">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-phuu">·       Awareness of the different STIs and HIV/AIDS<br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV</td>
+    <td class="tg-osew">Term 3 Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-phuu">Classroom-based Lesson</td>
+    <td class="tg-phuu">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td class="tg-osew">Term 3 Week 6</td>
+  </tr>
+</tbody>
+</table>
+
+**Information for Parents**
+
+10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form in FormSG on Parents Gateway. The form is also downloadable [here](/files/SEd%20opt%20out%20form.pdf). The completed form is to be submitted by 19/01/2023.
+
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form in FormSG on Parents Gateway. This form is also downloadable [here](/files/ESSS%20eTeens%20Cover%20Letter%20Sec%203s%20only.pdf).  The completed form is to be submitted by 19/01/2023.
+
+13.      Parents can contact the school at 6587 3805 or esss@moe.edu.sg (Attention: Mrs Jelena Phey \[HOD CCE\])  for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+
