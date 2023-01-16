@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - CCA Schedule 2023.md
       - School Management.md
       - School Rules and Regulations.md
       - Form Teacher List.md
@@ -10,4 +9,5 @@ collections:
       - Exam Matters.md
       - School Uniforms and Books.md
       - Booklist 2023.md
+      - CCA Schedule 2023.md
       - Contact Us.md
