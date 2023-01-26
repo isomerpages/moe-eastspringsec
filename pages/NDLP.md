@@ -18,12 +18,12 @@ description: ""
 <table border="10">
 <tbody>
 <tr>
-<th style="text-align: center;" colspan="2">Lenovo Chromebook 500e (2nd Gen)</th>
+<th style="text-align: center;" colspan="2">Lenovo Chromebook 500e (3rd Gen)</th>
 <td rowspan="11"><img src="/images/ndlp3.gif" /></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Processor</strong></td>
-<td><strong>Intel Celeron N4120</strong></td>
+<td><strong>Intel Celeron N4500</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
@@ -49,11 +49,6 @@ description: ""
 <tr>
 <td style="text-align: center;"><strong>HDD</strong></td>
 <td><strong>64GB EMMC&nbsp;</strong></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Battery&nbsp;</strong></td>
-<td><strong>3 Cell Li-Pol 42Wh&nbsp;</strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
@@ -151,7 +146,7 @@ description: ""
 <tbody>
 <tr>
 <th>Model</th>
-<th>Lenovo Chromebook 500e (2nd Gen)</th>
+<th>Lenovo Chromebook 500e (3rd Gen)</th>
 </tr>
 <tr>
 <td>OS</td>
@@ -159,7 +154,7 @@ description: ""
 </tr>
 <tr>
 <td>Processor</td>
-<td>Intel Celeron N4120</td>
+<td>Intel Celeron N4500</td>
 </tr>
 <tr>
 <td>RAM&nbsp;</td>
