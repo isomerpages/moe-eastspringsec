@@ -1,15 +1,47 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: Vision, Mission, Motto & Value
+        url: /about-us/vision-mission-motto-n-values
+      - title: School Song
+        url: /about-us/school-song
+  - title: School Information
+    url: /school-information/school-management
+    sublinks:
+      - title: School Management
+        url: /school-information/school-management
+      - title: School Rules and Regulations
+        url: /school-information/school-rules-and-regulations
+      - title: Form Teacher List
+        url: /school-information/form-teacher-list
+      - title: School Uniforms and Books
+        url: /school-information/school-uniforms-and-books
+      - title: Booklist 2023
+        url: /school-information/booklist-2023
+  - title: Programmes
+    url: /programmes
+    sublinks:
+      - title: Instructional
+        url: /programmes/instructional/departments/english
+      - title: Enrichment
+        url: /programmes/enrichment/cca
+      - title: Distinctive
+        url: /programmes/distinctive/alp
+      - title: Direct School Admission
+        url: /programmes/direct-school-admission
+  - title: Events
+    url: /events/2023-Sec-1-Meet-The-Parents-Session-6-Jan-2023/
+    sublinks:
+      - title: 2023 Sec 1 MPS (6 Jan)
+        url: /events/2023-Sec-1-Meet-The-Parents-Session-6-Jan-2023/
+      - title: 2023 Sec 1 Registration
+        url: /events/2023-Sec-1-Registration/
+  - title: Partners
+    url: /partners/parents-gateway
+    sublinks:
+      - title: Parents Gateway
+        url: /partners/parents-gateway
+      - title: Newsletters
+        url: /partners/newsletters

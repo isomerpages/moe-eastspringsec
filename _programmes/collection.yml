@@ -1,0 +1,22 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Programmes.md
+      - Instructional/English.md
+      - Instructional/Mathematics.md
+      - Instructional/Science.md
+      - Instructional/Humanities.md
+      - Instructional/Mother Tongue Language.md
+      - Instructional/PE.md
+      - Instructional/C&T.md
+      - Instructional/.keep
+      - Enrichment/.keep
+      - Enrichment/CCA.md
+      - Enrichment/CCE.md
+      - Enrichment/Education and Career Guidance.md
+      - Enrichment/Sexuality Education.md
+      - Distinctive/ALP.md
+      - Distinctive/LLP.md
+      - Distinctive/.keep
+      - Direct School Admission.md
