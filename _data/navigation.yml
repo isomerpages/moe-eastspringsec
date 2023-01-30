@@ -31,13 +31,6 @@ links:
         url: /programmes/distinctive/alp
       - title: Direct School Admission
         url: /programmes/direct-school-admission
-  - title: Partners
-    url: /partners/parents-gateway
-    sublinks:
-      - title: Parents Gateway
-        url: /partners/parents-gateway
-      - title: Newsletters
-        url: /partners/newsletters
   - title: Events
     url: /events/2023-Sec-1-Meet-The-Parents-Session-6-Jan-2023/
     sublinks:
@@ -45,3 +38,10 @@ links:
         url: /events/2023-Sec-1-Meet-The-Parents-Session-6-Jan-2023/
       - title: 2023 Sec 1 Registration
         url: /events/2023-Sec-1-Registration/
+  - title: Partners
+    url: /partners/parents-gateway
+    sublinks:
+      - title: Parents Gateway
+        url: /partners/parents-gateway
+      - title: Newsletters
+        url: /partners/newsletters
