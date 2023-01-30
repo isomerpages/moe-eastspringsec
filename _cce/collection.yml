@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE.md
-      - Sexuality Education.md
       - Cyber Wellness.md
       - Work Experience Programme (WEP).md
       - Integration Programme.md
