@@ -18,7 +18,7 @@ third_nav_title: Enrichment
 <p>Meaningful conduct of CCA sessions which emphasizes on the education of values and essential competencies through the CCA S.H.A.R.E. Routine</p>
 <p>Inter-CCA Competitions (e.g. Cross Country, Sports Day, various sports, etc.)</p>
 <p>Core Leadership Programme where CCA leaders go through a rigorous training programme designed by the Community Youth Leadership Committee.</p>
-<h4><strong>CCA Training Schedule 203</strong></h4>
+<h4><strong>CCA Training Schedule 2023</strong></h4>
 ![](/images/01%20UG.png)
 ![](/images/02%20Sports.png)
 ![](/images/03%20Performing%20Arts.png)
