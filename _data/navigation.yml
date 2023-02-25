@@ -34,12 +34,12 @@ links:
   - title: Events
     url: /events/2023-Sec-1-Meet-The-Parents-Session-6-Jan-2023/
     sublinks:
-      - title: 2023 Sec 3 MPS (24 Feb)
-        url: /permalink
-      - title: 2023 Sec 1 MPS (6 Jan)
-        url: /events/2023-Sec-1-Meet-The-Parents-Session-6-Jan-2023/
       - title: 2023 Sec 1 Registration
         url: /events/2023-Sec-1-Registration/
+      - title: 2023 Sec 1 MPS (6 Jan)
+        url: /events/2023-Sec-1-Meet-The-Parents-Session-6-Jan-2023/
+      - title: 2023 Sec 3 MPS (24 Feb)
+        url: /events/2023-Sec-3-Meet-The-Parents-Session-24-Feb-2023/
   - title: Partners
     url: /partners/parents-gateway
     sublinks:
