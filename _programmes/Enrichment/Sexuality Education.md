@@ -90,7 +90,7 @@ b.     Character and Citizenship Education (CCE)
 
 10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form in FormSG on Parents Gateway. The form is also downloadable [here](/files/SEd%20opt%20out%20form.pdf). The completed form is to be submitted by 19/01/2023.
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form in FormSG on Parents Gateway. The form is also downloadable [here](/files/2023/SEd%20opt%20out%20form.pdf). The completed form is to be submitted by 19/01/2023.
 
 12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form in FormSG on Parents Gateway. This form is also downloadable [here](/files/2023/ESSS%20eTeens%20Cover%20Letter%20Sec%203s%20only.pdf).  The completed form is to be submitted by 19/01/2023.
 
