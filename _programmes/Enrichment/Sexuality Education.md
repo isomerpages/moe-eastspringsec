@@ -44,7 +44,7 @@ b.     Character and Citizenship Education (CCE)
 
 7\.        Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.   
 
-**Please click [here](/files/2023%20ESSS%20Sex%20Ed.pdf) for  Sexuality Education lessons that will be taught at East Spring Secondary School in 2023.**  
+**Please click [here](/files/2023/2023%20ESSS%20Sex%20Ed.pdf) for  Sexuality Education lessons that will be taught at East Spring Secondary School in 2023.**  
 
 **<u>eTeens Programme</u>** :  
 
@@ -90,8 +90,8 @@ b.     Character and Citizenship Education (CCE)
 
 10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form in FormSG on Parents Gateway. The form is also downloadable [here](/files/SEd%20opt%20out%20form.pdf). The completed form is to be submitted by 19/01/2023.
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form in FormSG on Parents Gateway. The form is also downloadable [here](/files/2023/SEd%20opt%20out%20form.pdf). The completed form is to be submitted by 19/01/2023.
 
-12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form in FormSG on Parents Gateway. This form is also downloadable [here](/files/ESSS%20eTeens%20Cover%20Letter%20Sec%203s%20only.pdf).  The completed form is to be submitted by 19/01/2023.
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form in FormSG on Parents Gateway. This form is also downloadable [here](/files/2023/ESSS%20eTeens%20Cover%20Letter%20Sec%203s%20only.pdf).  The completed form is to be submitted by 19/01/2023.
 
 13.      Parents can contact the school at 6587 3805 or esss@moe.edu.sg (Attention: Mrs Jelena Phey \[HOD CCE\])  for discussion or to seek clarification about the school’s Sexuality Education programme.
