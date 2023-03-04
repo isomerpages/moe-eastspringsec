@@ -88,10 +88,10 @@ description: ""
 <li><a href="http://sure.nlb.gov.sg/" target="_blank" rel="noopener">https://sure.nlb.gov.sg/</a></li>
 </ul>
 
-###### Click here to view [Parent Handbook (I) on learning with a PLD](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf).
+###### Click here to view [Parent Handbook (I) on learning with a PLD](/files/2023/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf).
 
 
-###### Click here to view [Parent Handbook (I) on learning with a PLD](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf).
+###### Click here to view [Parent Handbook (II) on learning with a PLD](/files/2023/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf).
 
 
 <h4><strong>Videos on NDLP</strong></h4>
