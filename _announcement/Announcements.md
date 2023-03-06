@@ -1,8 +1,10 @@
 ---
 title: Announcements
-permalink: /esss/latest-news/
+permalink: /announcement/
 description: ""
 ---
+
+
 <h4><strong>Parents Gateway</strong></h4>
 <p><a href="/partners/parents-gateway">Click here to find out more about Parents Gateway</a></p>
 <hr>
