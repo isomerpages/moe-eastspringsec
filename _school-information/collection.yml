@@ -2,10 +2,10 @@ collections:
   school-information:
     output: true
     order:
-      - 2023 School Calendar.md
       - School Management.md
       - School Rules and Regulations.md
       - Form Teacher List.md
+      - 2023 School Calendar.md
       - School Uniforms and Books.md
       - Booklist 2023.md
       - Contact Us.md
