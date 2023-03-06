@@ -2,4 +2,5 @@ collections:
   announcement:
     output: true
     order:
+      - 2023 CCA Schedule (March Holiday).md
       - Announcements.md
