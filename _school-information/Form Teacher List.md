@@ -12,15 +12,15 @@ description: ""
 | 1E | Yeh Hui Ying | Mazli Said |
 | 2A | Oh Siew Gein | Chiah You Sheng |
 | 2B | Humairah Bine Tulmiti | Soh Wei Keong |
-| 2C | Chue Pin Fang |  |
+| 2C | Chue Pin Fang | Nadhirah Binte Abdul Rahman |
 | 2D | Nurul Nabilah Binte Zaini | Syed Jarina |
 | 2E | Adryanna Binte Aziz | Huang Yuanpeng |
-| 2F | Faizah Khairunnisa Bte Raihan | Carolyn Khoo (wef term 2) |
+| 2F | Faizah Khairunnisa Bte Raihan | Khoo Jiezhu Carolyn |
 | 2G | Darren Chong Shun Hao  | Najmon Nisha Binte Mohd Rafi |
 | 3E1 | Lim Lijuan Sherilyn |  |
-| 3E2 | Mindy Yue Min Er |  |
-| 3E3 | Sabariah Binte Salim |  |
-| 3E4 | Ignatius Shepherdson |  |
+| 3E2 | Mindy Yue Min Er | Lau Siew Min Rachel |
+| 3E3 | Sabariah Binte Salim | Song Song I |
+| 3E4 | Ignatius Shepherdson | Chang Qi Yin Zoe Ruth |
 | 3N1 | Yeo Pei Xing Stephanie | Lim Kok Sein |
 | 3N2 | Basheer Khan | Noor Fadilah Binte Wahab |
 | 3T1 | Zairani Bin Matyasir | Corinth Ng Sieng Lian |
@@ -34,4 +34,4 @@ description: ""
 | 4T2 | Foo Siew Yong | Goh Wei Xuan |
 | 5N1 | Yow Jia Hui Christon |  |
 
-_Updated on 28 Dec 2022_
+_Updated on 21 March 2023
