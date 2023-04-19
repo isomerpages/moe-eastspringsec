@@ -3,13 +3,19 @@ title: Booklist 2023
 permalink: /school-information/booklist-2023/
 description: ""
 ---
-<h4><strong>Sec 1</strong></h4>
-<p><a href="/files/ESSS%20S1%20EXP.pdf">S1 EXP.pdf</a><br /><a href="/files/ESSS%20S1%20NA.pdf">S1 NA.pdf</a><br /><a href="/files/ESSS%20S1%20NT.pdf">S1 NT.pdf</a></p>
-<h4><strong>Sec 2</strong></h4>
-<p><a href="/files/ESSS%20S2%20EXP.pdf">S2 EXP.pdf</a><br /><a href="/files/ESSS%20S2%20NA.pdf">S2 NA.pdf</a><br /><a href="/files/ESSS%20S2%20NT.pdf">S2 NT.pdf</a></p>
-<h4><strong>Sec 3</strong></h4>
-<p><a href="/files/ESSS%20S3%20EXP.pdf">S3 EXP.pdf</a><br /><a href="/files/ESSS%20S3%20NA.pdf">S3 NA.pdf</a><br /><a href="/files/ESSS%20S3%20NT.pdf">S3 NT.pdf</a></p>
-<h4><strong>Sec 4</strong></h4>
-<p><a href="/files/ESSS%20S4%20EXP.pdf">S4 EXP.pdf</a><br /><a href="/files/S4%20NA.pdf">S4 NA.pdf</a><br /><a href="/files/ESSS%20S4%20NT.pdf">S4 NT.pdf</a></p>
-<h4><strong>Sec 5</strong></h4>
-<p><a href="/files/ESSS%20S5%20NA.pdf">S5 NA.pdf</a></p>
+[Sec1 EXP](/files/2023/Booklist%202023/esss%20s1%20exp.pdf)  
+[Sec1 NA](/files/2023/Booklist%202023/esss%20s1%20na.pdf)  
+[Sec1 NT](/files/2023/Booklist%202023/esss%20s1%20nt.pdf)
+
+[Sec2 EXP](/files/2023/Booklist%202023/sec2%20exp.pdf)  
+[Sec2 NA](/files/2023/Booklist%202023/sec2%20na.pdf)  
+[Sec2 NT](/files/2023/Booklist%202023/sec2%20nt.pdf)  
+
+[Sec3 EXP](/files/2023/Booklist%202023/sec3%20exp.pdf)  
+[Sec3 NA](/files/2023/Booklist%202023/sec3%20na.pdf)  
+[Sec3 NT](/files/2023/Booklist%202023/sec3%20nt.pdf)
+
+[Sec4 EXP](/files/2023/Booklist%202023/sec4%20exp.pdf)  
+[Sec4 NA](/files/2023/Booklist%202023/sec4%20na.pdf)  
+[Sec4 NT](/files/2023/Booklist%202023/sec4%20nt.pdf)  
+[Sec5 NA](/files/2023/Booklist%202023/sec5%20na.pdf)  
