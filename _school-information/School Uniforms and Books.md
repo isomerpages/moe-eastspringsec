@@ -8,7 +8,7 @@ description: ""
 <p><strong>For walk-in purchase:</strong></p>
 <p style="padding-left: 40px;">East Spring Secondary School<br>30 Tampines Street 34<br>Singapore 529231</p>
 <p><strong>Operating hours:</strong></p>
-Selected dates as stated in the [School Attire Infosheet].(/files/2023/esss%20attire%202023%20(amended).pdf)
+Selected dates as stated in the [School Attire Infosheet](/files/2023/esss%20attire%202023%20(amended).pdf)
 
 For enquiries:<br><p></p>
 <p style="padding-left: 40px;">Phone: 6764 3102<br>Email:&nbsp;<a href="mailto:eastspringsec@asencio.com.sg" target="">eastspringsec@asencio.com.sg</a></p>
