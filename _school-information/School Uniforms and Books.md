@@ -9,8 +9,8 @@ description: ""
 <p style="padding-left: 40px;">East Spring Secondary School<br>30 Tampines Street 34<br>Singapore 529231</p>
 <p><strong>Operating hours:</strong></p>
 Selected dates as stated in the [School Attire Infosheet](/files/School%20Attire%20Infosheet.pdf).
-<p style="padding-left: 40px;">Selected dates as stated in the 
-</p><p><strong>For enquiries:<br></strong></p>
+
+For enquiries:<br><p></p>
 <p style="padding-left: 40px;">Phone: 6764 3102<br>Email:&nbsp;<a href="mailto:eastspringsec@asencio.com.sg" target="">eastspringsec@asencio.com.sg</a></p>
 <p><em>Place your uniform order for home delivery/self-collection in school via Asencio's website:&nbsp;<a href="http://www.asencio.com.sg/" target="_blank" rel="noopener">www.asencio.com.sg</a></em></p>
 <p><a href="/files/School%20Attire%20Infosheet%20for%202023.pdf">School Attire Infosheet for 2023.pdf</a></p>
