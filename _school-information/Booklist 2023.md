@@ -4,7 +4,6 @@ permalink: /school-information/booklist-2023/
 description: ""
 ---
 <h4><strong>Sec 1</strong></h4>
-[S1 Exp](/files/S1%20Exp.pdf)
 <p><a href="/files/ESSS%20S1%20EXP.pdf">S1 EXP.pdf</a><br>
 <a href="/files/ESSS%20S1%20NA.pdf">S1 NA.pdf</a><br><a href="/files/ESSS%20S1%20NT.pdf">S1 NT.pdf</a></p>
 <h4><strong>Sec 2</strong></h4>
