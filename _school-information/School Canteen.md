@@ -13,7 +13,7 @@ description: ""
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-* Application Form
+* [Application Form]()
 
 2. Attached the following documents together with the application form:
 
@@ -25,19 +25,11 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: 30 Tampines Street 34, Singapore 529231
+* Address: 30 Tampines Street 34, Singapore 529231    
 
 * Contact No: 65873805
 
 * Email: esss@moe.edu.sg
-
-* Contact Person: 
-
-**How to get there?**
-
-* Nearest MRT: Tampines East MRT (DT33 line) – 11 minutes walking distance
-
-* Bus number: 900 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
 
@@ -48,6 +40,8 @@ description: ""
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 
 * Able to maintain high standard of food safety and personal hygiene.
+
+* Must be in personal attendance at the stall during operation hours.
 
 * Healthy and fit to operate the stall.
 
