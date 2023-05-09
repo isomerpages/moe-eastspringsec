@@ -11,33 +11,33 @@ description: ""
 
 **Application Procedure**
 
-1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
 * Application Form
 
-2\. Attached the following documents together with the application form:
+2. Attached the following documents together with the application form:
 
-\* Photocopy of the NRIC (front and back)
+* Photocopy of the NRIC (front and back)
 
-\* List of proposed menu and pricing for all items
+* List of proposed menu and pricing for all items
 
-\* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-\* Address: 30 Tampines Street 34, Singapore 529231
+* Address: 30 Tampines Street 34, Singapore 529231
 
-\* Contact No: 65873805
+* Contact No: 65873805
 
-\* Email: esss@moe.edu.sg
+* Email: esss@moe.edu.sg
 
-\* Contact Person: 
+* Contact Person: 
 
-\*\*How to get there?\*\*
+**How to get there?**
 
-\* Nearest MRT: Tampines East MRT (DT33 line) – 11 minutes walking distance
+* Nearest MRT: Tampines East MRT (DT33 line) – 11 minutes walking distance
 
-\* Bus number: 900 - 3 minutes walking distance
+* Bus number: 900 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
 
