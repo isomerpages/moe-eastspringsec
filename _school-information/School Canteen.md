@@ -15,7 +15,7 @@ description: ""
 
 * [Application Form]()
 
-2. Attached the following documents together with the application form:
+2. Attach the following documents together with the application form:
 
 * Photocopy of the NRIC (front and back)
 
