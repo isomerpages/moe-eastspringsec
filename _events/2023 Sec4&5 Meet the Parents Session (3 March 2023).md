@@ -7,4 +7,3 @@ description: ""
 
 #### Thank you parents for attending the MPS.
 
-The slides and information shared during the MPS can be viewed [here](/files/2023/2023%20Sec%204%205%20MPS.pdf).
