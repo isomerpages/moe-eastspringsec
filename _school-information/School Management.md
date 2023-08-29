@@ -7,8 +7,6 @@ description: ""
 |---|---|
 | Ms Susie Ho | Principal |
 | Mr Johnny Ang | Vice Principal (EO) |
-| Mr Tan Shin Eik | Vice Principal (EO) |
-| Mr Ken Ng | Vice Principal (Admin) |
 | Mr Aubury Ong | Year Head (Upper Secondary) |
 | Ms Farhanah Bte Samsudin | Year Head (Lower Secondary) |
 | Mdm Noreha Bte Nordin | School Staff Developer |
@@ -28,4 +26,4 @@ description: ""
 | Mr Mohammad Hafiz Bin Mohd Saleh | Assistant Year Head (Secondary Three) |
 | Mrs Lena Ang | Assistant Year Head (Secondary Four) |
 
-_Updated 04 Oct 2022_
+_Updated 29 Aug 2023_
