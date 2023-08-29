@@ -8,7 +8,7 @@ description: ""
 | 1A | Amirah Binte Ahmad Khalis | Tan Hao Kiat |
 | 1B | Fadilah Nasir | Ng Chin Seng Daniel |
 | 1C | Yong Yoke Keong | Nur Zawani Bte Abd Hamid |
-| 1D | Chiam Chien An Russell | Inderjit Kaur |
+| 1D | Chiam Chien An Russell | Muthu Ramalingam Chakravarthi |
 | 1E | Yeh Hui Ying | Mazli Said |
 | 2A | Oh Siew Gein | Chiah You Sheng |
 | 2B | Humairah Bine Tulmiti | Soh Wei Keong |
@@ -35,4 +35,3 @@ description: ""
 | 5N1 | Yow Jia Hui Christon |  |
 
 _Updated on 21 March 2023
-
