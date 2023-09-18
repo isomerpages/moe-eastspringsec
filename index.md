@@ -30,4 +30,5 @@ sections:
       button: Register here
       url: https://forms.moe.edu.sg/forms/oZm4KJ
       image: /images/2023 esss open house.JPG
+      alt: Details for the event
 ---
