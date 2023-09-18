@@ -4,7 +4,9 @@ title: East Spring Secondary School
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: ""
+notification: Calling all P6 students and parents! Join us at our 2023 Open
+  House from 8 Nov to 10 Nov 2023 to find out more about East Spring Secondary
+  School. Scroll down for more details.
 sections:
   - hero:
       background: /images/banner.gif
