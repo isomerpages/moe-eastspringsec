@@ -26,4 +26,4 @@ description: ""
 | Mr Mohammad Hafiz Bin Mohd Saleh | Assistant Year Head (Secondary Three) |
 | Mrs Lena Ang | Assistant Year Head (Secondary Four) |
 
-_Updated 29 Aug 2023_
+_Updated 23 Oct 2023_
