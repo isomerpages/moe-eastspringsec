@@ -7,6 +7,7 @@ description: ""
 |---|---|
 | Ms Susie Ho | Principal |
 | Mr Johnny Ang | Vice Principal (EO) |
+| Mr Koh Chee Hui | Vice Principal (EO) |
 | Mr Aubury Ong | Year Head (Upper Secondary) |
 | Ms Farhanah Bte Samsudin | Year Head (Lower Secondary) |
 | Mdm Noreha Bte Nordin | School Staff Developer |
