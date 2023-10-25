@@ -20,7 +20,7 @@ For enquiries:<br><p></p>
 <p><strong>Operating hours:</strong></p>
 <p style="padding-left: 40px;"><a target="" href="/school-information/booklist-2024">Selected dates as stated in the Booklist</a></p>
 
-[Selected dates as stated in the Booklist](/school-information/booklist-2024/)
+[Selected dates as stated in the Booklist](/school-information/booklist-2024)
 
 <p><strong>For enquiries:</strong></p>
 <p style="padding-left: 40px;">Phone<strong>:</strong>&nbsp;6559 2269 / 6929 8012<br>Email:&nbsp;<a target="" href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a></p>
