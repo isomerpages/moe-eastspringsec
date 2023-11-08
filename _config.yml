@@ -2,11 +2,11 @@ title: East Spring Secondary School
 url: https://eastspringsec.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
-  primary-color: "#cc4903"
-  secondary-color: "#eeb600"
+  primary-color: "#0308cc"
+  secondary-color: "#ee3300"
   media-colors:
     - title: media-color-one
-      color: "#d72927"
+      color: "#fba350"
     - title: media-color-two
       color: "#000000"
     - title: media-color-three
