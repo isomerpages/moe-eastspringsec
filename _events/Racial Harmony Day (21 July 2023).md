@@ -13,3 +13,9 @@ Through the use of videos, students were given a chance to share their own opini
 To deepen the learning on racial harmony, lower secondary classes learnt about the significance behind the wearing of ethnic attire and what it signifies to different ethnic and religious groups. Our upper secondary students discussed how they can be more respectful and sensitive in interactions with one another. Through these day-to-day practices, it can contribute to social cohesion and harmony in Singapore.
 
 I am so grateful that we are all able to get along with each other. Racial Harmony Day is a good way to understand different points of view and thinking. Seeing everyone being proud to share about their own ethnic group and having respect for each other makes me hopeful for future generations. I know we can all continue to live harmoniously and appreciate one another.
+
+![](/images/Events/2023%20RHD/rhd1_write.jpg)
+
+![](/images/Events/2023%20RHD/rhd2_write.jpg)
+
+![](/images/Events/2023%20RHD/rhd3_write.jpg)
