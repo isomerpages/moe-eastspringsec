@@ -4,9 +4,9 @@ permalink: /events/main/
 variant: markdown
 description: ""
 ---
-| ![ES Open House 2023](/images/2023%20esss%20open%20house.JPG) | Column 2![ALP](/images/alp.jpg) | Column 3![NCDCC](/images/ncdcc.png) |
+| ![](/images/Events/2023%20School%20Carnival/east%20spring%20sec%20sch%20carnival_001.jpg) | Column 2![ALP](/images/alp.jpg) | Column 3![NCDCC](/images/ncdcc.png) |
 | ----- | ------ | ------- |
-|[2023 School Carnival](/events/schoolcarnival2023/)   | [2023 Racial Harmony Day](/events/rhd2023/)     | [2023 National Day Celebration (School Based)](/events/ndp2023/)    |
+|[2023 School Carnival](/events/schoolcarnival2023/)   | [2023 Racial Harmony Day](/events/rhd2023/)     | [2023 National Day Celebration](/events/ndp2023/)    |
 
 
 
@@ -19,6 +19,3 @@ description: ""
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | [Deepavali Celebration](/events/deepavali2023)     | Text     | Text     |
-
-
-
