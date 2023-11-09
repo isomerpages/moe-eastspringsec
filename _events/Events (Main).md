@@ -4,8 +4,7 @@ permalink: /events/main/
 variant: markdown
 description: ""
 ---
-
-| ![](/images/Events/2023%20Deepavali/Deepavalithumbnail.jfif) | Column 2 | Column 3 |
+| ![](/images/Events/2023%20Deepavali/Deepavalithumbnail.jfif) | ![](/images/Events/blankthumbnail03.jfif) | ![](/images/Events/blankthumbnail01.jfif) |
 | -------- | -------- | -------- |
 | [Deepavali Celebration](/events/deepavali2023)     | __     | __     |
 
