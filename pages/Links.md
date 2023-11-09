@@ -20,4 +20,14 @@ variant: markdown
 <li><a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener">iCON</a></li>
 <li><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space (SLS)</a></li>
 <li><a href="https://www.seab.gov.sg/" target="_blank" rel="noopener">GCE Examination Matters And Syllabus</a></li>
+<li><a href="https://www.eastspringsec.moe.edu.sg/school-information/school-uniforms-and-books/" target="_blank" rel="noopener">School Uniform and School Book Supplier Info</a></li>
+<li><a href="https://www.eastspringsec.moe.edu.sg/school-information/booklist-2024/" target="_blank" rel="noopener">2024 Booklist</a></li>
 </ul>
+
+
+
+<h4><strong>Parents Gateway</strong></h4>
+<p><a href="/partners/parents-gateway">Click here to find out more about Parents Gateway</a></p>
+<hr>
+<h4><strong>National Digital Literacy Programme (NDLP)</strong></h4>
+<p><a title="National Digital Literacy Programme (NDLP)" href="/ndlp" target="_blank" rel="noopener">Click here to find out more about National Digital Literacy Programme (NDLP)</a></p>
