@@ -4,10 +4,10 @@ permalink: /events/schoolcarnival2023/
 variant: markdown
 description: ""
 ---
-
-
 | ![](/images/Events/2023%20School%20Carnival/east%20spring%20sec%20sch%20carnival_020.jpg) | ![](/images/Events/2023%20School%20Carnival/east%20spring%20sec%20sch%20carnival_027.jpg) |
 | -------- | -------- |
+
+![](/images/Events/2023%20School%20Carnival/east%20spring%20sec%20sch%20carnival_035.jpg)
 
 
  
