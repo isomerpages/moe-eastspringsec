@@ -2,15 +2,9 @@
 title: Announcements
 permalink: /announcement/
 description: ""
+variant: markdown
 ---
 
-
-<h4><strong>Parents Gateway</strong></h4>
-<p><a href="/partners/parents-gateway">Click here to find out more about Parents Gateway</a></p>
-<hr>
-<h4><strong>National Digital Literacy Programme (NDLP)</strong></h4>
-<p><a title="National Digital Literacy Programme (NDLP)" href="/ndlp" target="_blank" rel="noopener">Click here to find out more about National Digital Literacy Programme (NDLP)</a></p>
-<hr>
 <h4><strong>2023 Secondary One Registration</strong></h4>
 <p>Welcome to East Spring Secondary School!</p>
 <p>We will have an online Sec 1 Registration in the form of a Zoom webinar on 22 December 2022 at 9.00 am.&nbsp;</p>
