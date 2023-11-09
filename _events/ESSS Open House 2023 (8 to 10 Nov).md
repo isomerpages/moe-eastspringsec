@@ -3,6 +3,7 @@ title: ESSS Open House 2023 (8 to 10 Nov)
 permalink: /events/2023openhouse/
 description: ""
 image: /images/2023 esss open house.JPG
+variant: tiptap
 ---
 Come and find out more about us.
 

@@ -35,30 +35,5 @@ links:
         url: /programmes/distinctive/alp
       - title: Direct School Admission
         url: /programmes/direct-school-admission
-  - title: Events
-    url: /events/2023-Sec-1-Meet-The-Parents-Session-6-Jan-2023/
-    sublinks:
-      - title: ESSS Open House (8-10 Nov)
-        url: /events/2023openhouse/
-      - title: 2023 Sec 1 Registration
-        url: /events/2023-Sec-1-Registration/
-      - title: 2023 Sec 1 MPS (6 Jan)
-        url: /events/2023-Sec-1-Meet-The-Parents-Session-6-Jan-2023/
-      - title: 2023 Sec 3 MPS (24 Feb)
-        url: /events/2023-Sec-3-Meet-The-Parents-Session-24-Feb-2023/
-      - title: 2023 Sec 4&5 MPS (3 Mar)
-        url: /events/2023-Sec-4-5-Meet-The-Parents-Session-3-March-2023/
-      - title: 2023 Sec 2 MPS (12 May)
-        url: /events/2023-sec-2-meet-the-parents-session-12-may-2023/
-  - title: Announcement
-    url: /announcement
-    sublinks:
-      - title: 2023 CCA (March holiday)
-        url: /announcement/2023ccamarchholiday/
-  - title: Partners
-    url: /partners/parents-gateway
-    sublinks:
-      - title: Parents Gateway
-        url: /partners/parents-gateway
   - title: Newsletter
     collection: newsletter
