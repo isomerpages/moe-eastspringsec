@@ -11,18 +11,18 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: NDLP
-          description: National Digital Literacy
+        - title: ANNOUNCEMENTS
+          description: ""
           url: /ndlp
-        - title: HBL
-          description: Home-Based Learning
+        - title: EVENTS
+          description: ""
           url: /hbl
         - title: LINKS
-          description: For Teachers & Students
+          description: ""
           url: /links
-        - title: Announcements
-          description: Latest News
-          url: /esss/latest-news
+        - title: ESSS INSTAGRAM
+          description: ""
+          url: https://www.instagram.com/eastspringsec/
   - infopic:
       title: ESSS Open House 2023
       id: infopic
