@@ -4,6 +4,12 @@ permalink: /announcement/
 description: ""
 variant: markdown
 ---
+<hr>
+<h4><strong>School Book and School Attire Info sheet for 2024</strong></h4>
+<p><a href="/school-information/school-uniforms-and-books">Click here to access the School Uniform and School Bookshop Info Sheet for 2024.</a></p>
+
+<h4><strong>Booklist 2024</strong></h4>
+<p><a href="/school-information/booklist-2024/">Click here to access the Booklist for 2024.</a></p>
 
 <h4><strong>2023 Secondary One Registration</strong></h4>
 <p>Welcome to East Spring Secondary School!</p>
@@ -15,6 +21,3 @@ variant: markdown
 <li>Sec 1 Orientation Programme</li>
 <li>Information on Purchase of Textbooks and Uniforms</li>
 </ul>
-<hr>
-<h4><strong>Booklist and School Attire Info sheet for 2023</strong></h4>
-<p><a href="/school-information/school-uniforms-and-books">Click here to access the 2023 Booklist and School Attire Info Sheet for 2023.</a></p>
