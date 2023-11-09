@@ -7,7 +7,9 @@ description: ""
 Racial Harmony Day is a day to celebrate our efforts in understanding the different races in Singapore. It is especially fun and eye-opening in secondary school as we all come together as one to enjoy and learn about each other’s differences and how we work together as one.
   
 To start off, it was such a delight to see so many East Springians wear their traditional ethnic attire to school. There were so many different colours and designs that filled the school! Both staff and students were busy taking pictures with one another and sharing about their outfits.
- 
+
+![](/images/Events/2023%20RHD/rhd5_2023.jpeg)
+
 Through the use of videos, students were given a chance to share their own opinions on what constitutes racial harmony. Being racially harmonious takes a consistent effort and evolves through time. As a class, students were encouraged to take on the role of an architect, chef, or tailor to design a building, dish, or outfit that incorporates elements from different races and cultures.
  
 To deepen the learning on racial harmony, lower secondary classes learnt about the significance behind the wearing of ethnic attire and what it signifies to different ethnic and religious groups. Our upper secondary students discussed how they can be more respectful and sensitive in interactions with one another. Through these day-to-day practices, it can contribute to social cohesion and harmony in Singapore.
