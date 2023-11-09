@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: /ndlp
+          url: /announcement/
         - title: EVENTS
           description: ""
           url: /hbl
