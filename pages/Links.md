@@ -2,6 +2,7 @@
 title: Links
 permalink: /links/
 description: ""
+variant: markdown
 ---
 <h4><strong>Teachers</strong></h4>
 <ul>
