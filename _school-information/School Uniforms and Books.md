@@ -2,6 +2,7 @@
 title: School Uniforms and Books
 permalink: /school-information/school-uniforms-and-books/
 description: ""
+variant: markdown
 ---
 <h3><strong>School Uniform Suppliers</strong></h3>
 <h4><strong>Asencio Pte Ltd</strong></h4>
