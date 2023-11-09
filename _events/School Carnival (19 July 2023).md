@@ -4,9 +4,12 @@ permalink: /events/schoolcarnival2023/
 variant: markdown
 description: ""
 ---
-Name of Author: Zaina Saraa Ahmed
- 
-Name of Class: 2F
+
+
+| ![](/images/Events/2023%20School%20Carnival/east%20spring%20sec%20sch%20carnival_020.jpg) | ![](/images/Events/2023%20School%20Carnival/east%20spring%20sec%20sch%20carnival_027.jpg) |
+| -------- | -------- |
+
+
  
 On 19th July this year, our school organised the inaugural school carnival. 
 
