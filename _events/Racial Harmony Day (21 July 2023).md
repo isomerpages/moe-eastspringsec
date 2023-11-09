@@ -4,10 +4,6 @@ permalink: /events/rhd2023/
 variant: markdown
 description: ""
 ---
-Name of Author: Sehaj Kaur
-
-Name of Class: 2G
-   
 Racial Harmony Day is a day to celebrate our efforts in understanding the different races in Singapore. It is especially fun and eye-opening in secondary school as we all come together as one to enjoy and learn about each other’s differences and how we work together as one.
   
 To start off, it was such a delight to see so many East Springians wear their traditional ethnic attire to school. There were so many different colours and designs that filled the school! Both staff and students were busy taking pictures with one another and sharing about their outfits.
