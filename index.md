@@ -21,5 +21,5 @@ sections:
         - title: ESSS INSTAGRAM
           description: ""
           url: https://www.instagram.com/eastspringsec/
-      variant: center
+      variant: image
 ---
