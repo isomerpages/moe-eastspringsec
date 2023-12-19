@@ -23,5 +23,5 @@ sections:
           url: https://www.instagram.com/eastspringsec/
       variant: center
       button: Click here for Information for 2024 sec 1 parents and students
-      url: https://eastspringsec.moe.edu.sg/events/2024sec1information/
+      url: /events/main/
 ---
