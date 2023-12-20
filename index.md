@@ -21,5 +21,7 @@ sections:
         - title: ESSS INSTAGRAM
           description: ""
           url: https://www.instagram.com/eastspringsec/
-      variant: image
+      variant: center
+      button: Click here for Information for 2024 sec 1 parents and students
+      url: /events/2024sec1information/
 ---
