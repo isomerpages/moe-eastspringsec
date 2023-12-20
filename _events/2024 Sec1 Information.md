@@ -4,4 +4,4 @@ permalink: /events/2024sec1information/
 variant: tiptap
 description: ""
 ---
-<p></p><p>Please wait for more information via Parent Gateway.</p><p>Thank you</p>
+<p></p><p>Please wait for more information via Parents Gateway.</p><p>Thank you</p>
