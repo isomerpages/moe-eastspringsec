@@ -4,9 +4,9 @@ permalink: /events/main/
 variant: markdown
 description: ""
 ---
-| ![](/images/Events/2023%20Deepavali/Deepavalithumbnail.jfif) | ![](/images/Events/2024%20Sec1%20Info%20(P_S)/Sec1_thumbnail.png) | ![](/images/Events/blankthumbnail01.jfif) |
+| ![](/images/Events/2023%20Deepavali/Deepavalithumbnail.jfif) | ![](/images/Events/2024%20Sec1%20Info%20(P_S)/Sec1_thumbnail.png) | ![](/images/Thumbnails/2024_Sec_1_MPS.png) |
 | -------- | -------- | -------- |
-| [Deepavali Celebration](/events/deepavali2023)     | [2024 Sec1 Information for Parents and Students](/events/2024sec1information)     | __     |
+| [Deepavali Celebration](/events/deepavali2023)     | [2024 Sec1 Information for Parents and Students](/events/2024sec1information)     | [2024 Sec 1 MPS](/events/2024-sec-1-meet-the-parents-session-5-jan-2024/)     |
 
 
 | ![](/images/Events/2023%20OLJ%20(Vietnam)/OLJthumbnail.jfif) | ![](/images/Events/2023%20Teachers'%20Day/TDthumbnail.jfif) | ![](/images/Events/2023%20Graduation%20Day/Gradthumbnail.jfif) |
