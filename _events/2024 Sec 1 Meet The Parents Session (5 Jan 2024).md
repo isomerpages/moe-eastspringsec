@@ -7,3 +7,5 @@ variant: markdown
 ## 2024 Sec 1 Meet-The-Parents Session (5 Jan 2024)
 
 Coming soon.
+
+Slides will be uploaded 3 days after the session.
