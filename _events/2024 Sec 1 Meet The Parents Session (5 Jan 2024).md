@@ -6,4 +6,4 @@ variant: markdown
 ---
 ## 2024 Sec 1 Meet-The-Parents Session (5 Jan 2024)
 
-#### Thank you parents for attending the MPS.
+Coming soon.
