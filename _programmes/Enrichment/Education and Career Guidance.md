@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Enrichment
 variant: markdown
 ---
-Students who would like to explore more in areas such as subject choices, course options or to find out more about their interests and strengths can have a chat with our school’s Lead ECG Counsellor. To make an appointment with Ms Sherlyn Soh, please click&nbsp;[https://for.edu.sg/esssecg](https://for.edu.sg/esssecg)#### INTRODUCTION
+Students who would like to explore more in areas such as subject choices, course options or to find out more about their interests and strengths can have a chat with our school’s Lead ECG Counsellor. To make an appointment with Ms Sherlyn Soh, please click&nbsp;[https://for.edu.sg/esssecg](https://for.edu.sg/esssecg)
+#### INTRODUCTION
 
 Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work. The goals of ECG are to support students in:
 
