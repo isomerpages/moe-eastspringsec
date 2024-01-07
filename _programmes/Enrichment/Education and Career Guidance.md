@@ -3,8 +3,9 @@ title: Education and Career Guidance
 permalink: /programmes/Enrichment/Education-and-Career-Guidance/
 description: ""
 third_nav_title: Enrichment
+variant: markdown
 ---
-#### INTRODUCTION
+Students who would like to explore more in areas such as subject choices, course options or to find out more about their interests and strengths can have a chat with our school’s Lead ECG Counsellor. To make an appointment with Ms Sherlyn Soh, please click&nbsp;[https://for.edu.sg/esssecg](https://for.edu.sg/esssecg)#### INTRODUCTION
 
 Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work. The goals of ECG are to support students in:
 
@@ -20,17 +21,13 @@ Develop students’ self-directedness and confidence to explore and leverage edu
 
 Build students’ adaptability and resilience to embrace the need for lifelong learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/12ass4FSCcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/12ass4FSCcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### ECG COUNSELLING
 
-We have an ECG Counsellor to provide support to students (individually or in small groups). Students who would like to explore more in areas such as subject choices, course options or to find out more about their strengths and interests can have a chat with our school’s ECG Counsellor.
+Students who would like to explore more in areas such as subject choices, course options or to find out more about their interests and strengths can have a chat with our school’s Lead ECG Counsellor. To make an appointment with Ms Sherlyn Soh, please click&nbsp;[https://for.edu.sg/esssecg](https://for.edu.sg/esssecg)
 
-To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https://go.gov.sg/hblecg](https://go.gov.sg/hblecg)
-
-<br>
-
-<img src="/images/ECG.png" style="width:40%;" align="center"/>
+![](/images/2024_ECG_counsellor.png)
 
 #### ACADEMIC PATHWAYS EXPLORATION
 
@@ -104,11 +101,11 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
   </tr>
   <tr>
     <td class="tg-phuu">Nanyang Academic of Fine Arts (NAFA) Diploma<br> </td>
-    <td class="tg-x24g"><a href="https://www.nafa.edu.sg/courses/diploma"><span style="font-weight:bold;text-decoration:none;color:#232323">https://www.nafa.edu.sg/courses/diploma</span></a></td>
+    <td class="tg-x24g"><a href="[https://www.nafa.edu.sg/admissions/diploma-admissions](https://www.nafa.edu.sg/admissions/diploma-admissions)"><span style="font-weight:bold;text-decoration:none;color:#232323">https://www.nafa.edu.sg/admissions/diploma-admissions</span></a></td>
     <td class="tg-phuu">Exp &amp; 5N(A)</td>
   </tr>
   <tr>
-    <td class="tg-phuu">La Salle College of the Arts (Diploma)<br> </td>
+    <td class="tg-phuu">LASALLE College of the Arts (LASALLE)<br> </td>
     <td class="tg-x24g"><a href="https://www.lasalle.edu.sg/admissions/diploma-admissions"><span style="font-weight:bold;text-decoration:none;color:#232323">https://www.lasalle.edu.sg/admissions/diploma-admissions</span></a></td>
     <td class="tg-phuu">Exp &amp; 5N(A)</td>
   </tr>
@@ -137,13 +134,13 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 </thead>
 <tbody>
   <tr>
-    <td class="tg-phuu">2023 JAE Booklet</td>
-    <td class="tg-x24g"><a href="http://www.moe.gov.sg/jaebooklet"><span style="font-weight:bold;text-decoration:none;color:#232323">http://www.moe.gov.sg/jaebooklet</span></a></td>
+    <td class="tg-phuu">Joint Admission Exercise (JAE)</td>
+    <td class="tg-x24g"><a href="https://www.moe.gov.sg/post-secondary/admissions/jae"><span style="font-weight:bold;text-decoration:none;color:#232323">https://www.moe.gov.sg/post-secondary/admissions/jae</span></a></td>
     <td class="tg-phuu">O-level students<br>4N(A) students who are interested in PFP<br> </td>
   </tr>
   <tr>
-    <td class="tg-phuu">2023 JIE Booklet<br> </td>
-    <td class="tg-x24g"><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf"><span style="font-weight:bold;text-decoration:none;color:#232323">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf</span></a><br> </td>
+    <td class="tg-phuu">Joint Intake Exercise (JIE)<br> </td>
+    <td class="tg-x24g"><a href="https://www.moe.gov.sg/post-secondary/admissions/jie?pt=JIE-E%20and%20JIE-N"><span style="font-weight:bold;text-decoration:none;color:#232323">https://www.moe.gov.sg/post-secondary/admissions/jie?pt=JIE-E%20and%20JIE-N</span></a><br> </td>
     <td class="tg-phuu">For N-level students seeking admission to ITE College (NITEC, DPP etc.)</td>
   </tr>
   <tr>
@@ -163,7 +160,7 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
   </tr>
   <tr>
     <td class="tg-phuu">Parent Guide<br> </td>
-    <td class="tg-x24g"><a href="https://www.moe.gov.sg/parentkit"><span style="font-weight:bold;text-decoration:none;color:#232323">https://www.moe.gov.sg/parentkit</span></a><a href="https://go.gov.sg/parent-guide"><span style="font-weight:bold;text-decoration:none;color:#232323">https://go.gov.sg/parent-guide</span></a> <span style="color:#0070C0"> </span><br><span style="color:#0070C0"> </span></td>
+    <td class="tg-x24g"><a href="https://www.moe.gov.sg/parentkit"><span style="font-weight:bold;text-decoration:none;color:#232323">https://www.moe.gov.sg/parentkit</span></a><a href="https://go.gov.sg/parent-guide"><span style="font-weight:bold;text-decoration:none;color:#232323"> <span style="color:#0070C0"> </span><br><span style="color:#0070C0"> </span></span></a></td>
     <td class="tg-phuu">An ECG toolkit for parents<br> </td>
   </tr>
   <tr>
