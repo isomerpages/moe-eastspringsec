@@ -2,10 +2,9 @@
 title: CCA Schedule 2023
 permalink: /CCA/CCA-Schedule-2023/
 description: ""
+variant: markdown
 ---
-
-
-Below is the 2023 Semester 1 CCA schedule.
+Below is the 2024 Semester 1 CCA schedule.
 
 ![](/images/01%20UG.png)
 
