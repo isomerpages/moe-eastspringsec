@@ -25,12 +25,13 @@ Tailored to students with lower readiness, this programme offers essential suppo
 **2\. ACE Programme and SASMO Competition**
 
 For higher readiness learners, the ACE Programme and participation in the SASMO Competition challenge and refine their skills, fostering higher-order thinking abilities.
-
+![](/images/2024/Maths_01.png)
+![](/images/2024/Maths_02.png)
 
 **3\. 'Learn &amp; Apply' Math**
 
 Bridging mathematical concepts to everyday life, 'Learn &amp; Apply' Math makes the learning of mathematics to be relevant, appealing, and personal.
-
+![](/images/2024/Maths_03.png)
 **4\. Tech-Enabled Learning**
 
 We support learning through various technological applications and offer the ESSS Math Online Resource Repository Site, enabling flexible, anytime, anywhere learning opportunities.
@@ -43,6 +44,7 @@ We incorporate gamification into the learning journey, utilising interactive ele
 
 Utilising GeoGebra and other manipulatives and interactives as visual aids to scaffold students' understanding and critical thinking skills.
 
+![](/images/2024/Maths_04.png)
 
 We embrace every student's potential.
 
