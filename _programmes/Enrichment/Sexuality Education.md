@@ -57,7 +57,7 @@ Please click [here](/files/2024/2024_SeD_Curriculum.pdf) for Sexuality Educati
 
 **At East Spring Secondary School, the _eTeens_ programme will be implemented as follows in 2024:**
 
-
+![](/images/2024/eTeens_programmes_table_v1.jpg)
 
 **Information for Parents**
 
