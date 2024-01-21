@@ -60,9 +60,9 @@ As part of the NDLP, schools will progressively roll out IT applications that wi
 
 #### Digital Literacy and Cyber Wellness Resources for Parents
 
-###### Refer to these tips to guide your child to navigate the digital environment: [Parent Handbook (I) on learning with a PLD](https://www.eastspringsec.moe.edu.sg/files/2023/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf).
+###### Refer to these tips to guide your child to navigate the digital environment: [[Parent Handbook (I) on learning with a PLD]](/files/2024/IP2___Parent_Handbook__I__2024_FINAL.pdf).
 
-###### Support your child to learn better with their PLDs and reinforce good digital learning habits: [Parent Handbook (II) on learning with a PLD](https://www.eastspringsec.moe.edu.sg/files/2023/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf).
+###### Support your child to learn better with their PLDs and reinforce good digital learning habits: [[Parent Handbook (II) on learning with a PLD]](/files/2024/IP3___Parent_Handbook__II__2024_FINAL.pdf).
 
 Additional resources to support you in keeping your child safe and responsible online:
 
