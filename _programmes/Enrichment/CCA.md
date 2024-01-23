@@ -22,13 +22,9 @@ variant: markdown
 <h4><strong>CCA Training Schedule 2024</strong></h4>
 
 ![](/images/2024/Uniform_Groups.JPG)
-
 ![](/images/2024/Sports_and_Games.JPG)
-
 ![](/images/2024/Performing_Arts.JPG)
-
 ![](/images/2024/Clubs_and_Societies.JPG)
-
 
 <h4><strong>Key Events / Activities</strong></h4>
 <p><span style="text-decoration: underline;"><strong>Uniformed Groups:<br></strong></span><a href="/programmes/enrichment/cca/uniformed-groups/ncc" target="">National Cadet Corps (NCC Land) - (Boys)</a><br><a href="/programmes/enrichment/cca/uniformed-groups/ncdcc" target="">National Civil Defence Cadet Corps (NCDCC)</a>&nbsp;<br><a href="/programmes/enrichment/cca/uniformed-groups/npcc" target="">National Police Cadet Corps (NPCC)</a><br><a href="/programmes/enrichment/cca/uniformed-groups/scouts" target="">Scouts</a><br><a href="/programmes/enrichment/cca/uniformed-groups/sjb" target="">St John Brigade (SJB)</a></p>
