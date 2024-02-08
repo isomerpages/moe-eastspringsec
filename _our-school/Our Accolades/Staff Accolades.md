@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Our Accolades
 ---
-<p></p>
+<p>To be updated.</p>
