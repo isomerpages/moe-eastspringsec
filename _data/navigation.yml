@@ -21,6 +21,10 @@ links:
   - title: Curriculum
     url: /curriculum/el
     sublinks:
+      - title: English
+        url: /curriculum/el
+      - title: Mathematics
+        url: /curriculum/mathematics
       - title: Instructional
         url: /programmes/instructional/departments/english
       - title: Enrichment
