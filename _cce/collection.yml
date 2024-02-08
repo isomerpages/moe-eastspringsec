@@ -2,6 +2,5 @@ collections:
   cce:
     output: true
     order:
-      - Cyber Wellness.md
       - Work Experience Programme (WEP).md
       - Integration Programme.md
