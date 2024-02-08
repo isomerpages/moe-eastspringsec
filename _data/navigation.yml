@@ -37,7 +37,11 @@ links:
         url: /curriculum/pe
   - title: Student Development
     url: /student-development/
-    sublinks: []
+    sublinks:
+      - title: Applied Learning Programme
+        url: /student-development/alp
+      - title: Learning for Life Programme
+        url: /student-development/llp
   - title: Information
     url: /information/
     sublinks:
