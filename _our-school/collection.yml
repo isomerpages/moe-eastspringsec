@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  our-school:
     output: true
     order:
       - Our Accolades.md
