@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - C&T.md
+      - Craft and Technology.md
       - English.md
       - Mathematics.md
       - Science.md
