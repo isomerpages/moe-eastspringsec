@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA.md
       - Uniformed Groups/.keep
       - Uniformed Groups/NCC.md
       - Uniformed Groups/NCDCC.md
