@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue Language.md
       - English.md
       - Mathematics.md
       - Science.md
       - Humanities.md
+      - Mother Tongue Language.md
       - Programmes.md
       - Instructional/.keep
       - Instructional/PE.md
