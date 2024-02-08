@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Science.md
       - English.md
       - Mathematics.md
+      - Science.md
       - Programmes.md
       - Instructional/.keep
       - Instructional/Humanities.md
