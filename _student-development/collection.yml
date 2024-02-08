@@ -2,5 +2,5 @@ collections:
   student-development:
     output: true
     order:
-      - LLP.md
       - Applied Learning Programme.md
+      - LLP.md
