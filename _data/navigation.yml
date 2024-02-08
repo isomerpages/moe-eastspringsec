@@ -1,7 +1,7 @@
 logo: /images/logo.jpg
 links:
-  - title: About Us
-    url: /about-us
+  - title: Our School
+    url: /our-school
     sublinks:
       - title: Vision, Mission, Motto & Value
         url: /about-us/vision-mission-motto-n-values
