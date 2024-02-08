@@ -13,7 +13,11 @@ links:
         url: /our-school/contact-us/
   - title: Our People
     url: /our-people/smc/
-    sublinks: []
+    sublinks:
+      - title: School Management Committee
+        url: /our-people/smc
+      - title: Form Teachers
+        url: /our-people/form-teachers
   - title: Curriculum
     url: /curriculum/el
     sublinks:
