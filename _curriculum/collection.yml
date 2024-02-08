@@ -2,12 +2,12 @@ collections:
   curriculum:
     output: true
     order:
-      - Craft and Technology.md
       - English.md
       - Mathematics.md
       - Science.md
       - Humanities.md
       - Mother Tongue Language.md
+      - Craft and Technology.md
       - Programmes.md
       - Instructional/.keep
       - Instructional/PE.md
