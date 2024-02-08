@@ -21,7 +21,7 @@ links:
   - title: Curriculum
     url: /curriculum/el
     sublinks:
-      - title: English
+      - title: English Language & Literature
         url: /curriculum/el
       - title: Mathematics
         url: /curriculum/mathematics
@@ -31,6 +31,8 @@ links:
         url: /curriculum/humanities
       - title: Mother Tongue Languages
         url: /curriculum/mtl
+      - title: Craft and Technology
+        url: /curriculum/ct
       - title: Instructional
         url: /programmes/instructional/departments/english
       - title: Enrichment
