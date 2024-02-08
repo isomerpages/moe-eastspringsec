@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - National Digital Literacy Programme (NDLP).md
