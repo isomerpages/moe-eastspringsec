@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - PE.md
+      - Physical Education.md
       - English Language and Literature.md
       - Mathematics.md
       - Science.md
