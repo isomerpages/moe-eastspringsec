@@ -2,5 +2,5 @@ collections:
   our-people:
     output: true
     order:
-      - Form Teacher List.md
       - School Management.md
+      - Form Teacher List.md
