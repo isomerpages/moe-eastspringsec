@@ -2,13 +2,13 @@ collections:
   curriculum:
     output: true
     order:
-      - Physical Education.md
       - English Language and Literature.md
       - Mathematics.md
       - Science.md
       - Humanities.md
       - Mother Tongue Language.md
       - Craft and Technology.md
+      - Physical Education.md
       - Programmes.md
       - Instructional/.keep
       - Enrichment/.keep
