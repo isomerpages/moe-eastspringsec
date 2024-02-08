@@ -25,8 +25,9 @@ links:
         url: /programmes/distinctive/alp
       - title: Direct School Admission
         url: /programmes/direct-school-admission
-  - title: Newsletter
-    collection: newsletter
+  - title: Student Development
+    url: /student-development/
+    sublinks: []
   - title: Information
     url: /information/
     sublinks:
@@ -44,3 +45,5 @@ links:
         url: /school-information/booklist-2024
       - title: School Canteen
         url: /school-information/school-canteen/
+  - title: Newsletter
+    collection: newsletter
