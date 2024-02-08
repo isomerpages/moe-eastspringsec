@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Canteen.md
-      - School Management.md
       - School Rules and Regulations.md
       - Form Teacher List.md
       - School Uniforms and Books.md
