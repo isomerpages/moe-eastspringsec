@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Cyber Wellness.md
       - CCE/CCE.md
       - CCE/.keep
       - Applied Learning Programme.md
