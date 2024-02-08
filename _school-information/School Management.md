@@ -2,6 +2,7 @@
 title: School Management
 permalink: /school-information/school-management/
 description: ""
+variant: markdown
 ---
 |  |  |
 |---|---|
@@ -12,8 +13,8 @@ description: ""
 | Ms Farhanah Bte Samsudin | Year Head (Lower Secondary) |
 | Mdm Noreha Bte Nordin | School Staff Developer |
 | Ms Clara Sng | Head of Department (Craft & Technology) |
-| Mrs Jelena Phey | Head of Department (Character & Citizenship Education) |
-| Mdm Maria Lim | Head of Department (Educational Support) |
+|  Mdm Maria Lim | Head of Department (Character & Citizenship Education) |
+| Mr Goh Han Pin| Head of Department (Educational Support) |
 | Mr Mohamad Shaiful Bin Suradi | Head of Department (English Language) |
 | Mdm Khalidal Huda Sukaimi   | Head of Department (Humanities) |
 | Mr Leung Wai Wang | Head of Department (Information & Communication Technology) |
@@ -21,10 +22,10 @@ description: ""
 | Mdm Ho Chui Mei | Head of Department (Mother Tongue Languages) |
 | Mr Prabaakaran S/O Janarthanan | Head of Department (Physical Education & Co-Curricular Activities) |
 | Mrs Lilian Tan | Head of Department (Science) |
+| Mr Daryl Tan | Subject Head (Information & Communication Technology) |
 | Ms Jessica Ser | Subject Head (Chinese Language) |
 | Mr Mohd Jailani Bin Mokri | Subject Head (Malay Language) |
-| Mdm Nuratiqah Binte Abu Bakar | Assistant Year Head (Secondary Two) |
-| Mr Mohammad Hafiz Bin Mohd Saleh | Assistant Year Head (Secondary Three) |
-| Mrs Lena Ang | Assistant Year Head (Secondary Four) |
+| Mdm Nuratiqah Binte Abu Bakar | Assistant Year Head (Secondary Three) |
+| Mrs Lena Ang | Assistant Year Head (Secondary Two) |
 
-_Updated 23 Oct 2023_
+_Updated 04 Jan 2024_
