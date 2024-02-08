@@ -2,10 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - Our Accolades/Student Accolades.md
-      - Our Accolades/.keep
       - Our School.md
       - Vision, Mission, Motto & Values.md
       - School Song.md
+      - Our Accolades/.keep
+      - Our Accolades/Student Accolades.md
       - Our Accolades.md
       - Contact Us.md
