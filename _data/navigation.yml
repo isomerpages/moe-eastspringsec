@@ -38,6 +38,8 @@ links:
   - title: Student Development
     url: /student-development/
     sublinks:
+      - title: CCE
+        url: /student-development/cce
       - title: Applied Learning Programme
         url: /student-development/alp
       - title: Learning for Life Programme
