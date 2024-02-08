@@ -2,4 +2,4 @@ collections:
   student-development:
     output: true
     order:
-      - ALP.md
+      - Applied Learning Programme.md
