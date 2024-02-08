@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Accolades.md
       - Student Accolades.md
       - About Us.md
       - Vision, Mission, Motto & Values.md
