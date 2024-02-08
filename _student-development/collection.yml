@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - CCA.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Cyber Wellness.md
@@ -11,3 +10,4 @@ collections:
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - National Digital Literacy Programme (NDLP).md
+      - CCA.md
