@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Testing/CCA.md
       - Testing/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/NCC.md
