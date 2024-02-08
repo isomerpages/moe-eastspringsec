@@ -11,8 +11,24 @@ links:
         url: /our-school/our-accolades
       - title: Contact Us
         url: /our-school/contact-us/
-  - title: School Information
-    url: /school-information/school-management
+  - title: Our People
+    url: /our-people/smc/
+    sublinks: []
+  - title: Curriculum
+    url: /curriculum/el
+    sublinks:
+      - title: Instructional
+        url: /programmes/instructional/departments/english
+      - title: Enrichment
+        url: /programmes/enrichment/cca
+      - title: Distinctive
+        url: /programmes/distinctive/alp
+      - title: Direct School Admission
+        url: /programmes/direct-school-admission
+  - title: Newsletter
+    collection: newsletter
+  - title: Information
+    url: /information/
     sublinks:
       - title: School Management
         url: /school-information/school-management
@@ -28,16 +44,3 @@ links:
         url: /school-information/booklist-2024
       - title: School Canteen
         url: /school-information/school-canteen/
-  - title: Programmes
-    url: /programmes
-    sublinks:
-      - title: Instructional
-        url: /programmes/instructional/departments/english
-      - title: Enrichment
-        url: /programmes/enrichment/cca
-      - title: Distinctive
-        url: /programmes/distinctive/alp
-      - title: Direct School Admission
-        url: /programmes/direct-school-admission
-  - title: Newsletter
-    collection: newsletter
