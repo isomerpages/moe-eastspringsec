@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA.md
-      - Testing/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/NCC.md
       - Uniformed Groups/NCDCC.md
