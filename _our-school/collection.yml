@@ -2,9 +2,9 @@ collections:
   our-school:
     output: true
     order:
-      - Contact Us.md
       - Our School.md
       - Our Accolades.md
       - Student Accolades.md
       - Vision, Mission, Motto & Values.md
       - School Song.md
+      - Contact Us.md
