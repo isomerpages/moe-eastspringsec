@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - CCA.md
+      - CoCurricular Activities (CCA).md
       - Uniformed Groups/.keep
       - Uniformed Groups/NCC.md
       - Uniformed Groups/NCDCC.md
