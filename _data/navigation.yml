@@ -57,17 +57,7 @@ links:
         url: /information/events/
       - title: Students
         url: /information/students/
-      - title: School Canteen
-        url: /school-information/school-canteen/
-      - title: School Rules and Regulations
-        url: /school-information/school-rules-and-regulations
-      - title: Form Teacher List
-        url: /school-information/form-teacher-list
-      - title: 2023 School Calendar
-        url: /school-information/2023-school-calendar/
-      - title: School Uniforms and Books
-        url: /school-information/school-uniforms-and-books
-      - title: Booklist 2024
-        url: /school-information/booklist-2024
+      - title: Teachers
+        url: /information/teachers
   - title: Newsletter
     collection: newsletter
