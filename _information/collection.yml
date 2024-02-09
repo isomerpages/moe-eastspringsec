@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Teachers/Links.md
       - Teachers/.keep
       - Announcements.md
       - Events/.keep
