@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Links.md
       - Announcements.md
       - Events/.keep
       - Events/Events (Main).md
@@ -19,12 +18,13 @@ collections:
       - Events/2023 Sec 3 Meet the Parents Session (24 Feb 2023).md
       - Events/2023 Sec4&5 Meet the Parents Session (3 March 2023).md
       - Events/2023 Sec 2 Meet The Parents Sessions (12 May).md
-      - Students/Students.md
       - Students/.keep
+      - Students/Students.md
       - Students/School Rules and Regulations.md
       - Students/School Uniforms and Books.md
       - Students/Booklist 2024.md
       - Students/Newsletter.md
+      - Links.md
       - Teachers/.keep
       - Parents.md
       - Direct School Admission.md
