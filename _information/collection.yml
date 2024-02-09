@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcements.md
+      - Events/2024 Sec1 Information.md
       - Events/Deepavali Celebration (16 Oct 2023).md
       - Events/Graduation Day (21 Sep 2023).md
       - Events/Teachers' Day (28 Aug 2023).md
