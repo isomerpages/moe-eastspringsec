@@ -9,10 +9,6 @@ collections:
       - CCE/Sexuality Education.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
-      - CCA/Floorball.md
-      - CCA/Netball.md
-      - CCA/Basketball.md
-      - CCA/Badminton.md
       - CCA/.keep
       - CCA/Co Curricular Activities (CCA).md
       - CCA/National Cadet Corps (NCC).md
@@ -29,4 +25,8 @@ collections:
       - CCA/Chinese Dance.md
       - CCA/Malay Dance.md
       - CCA/Concert Band.md
+      - CCA/Badminton.md
+      - CCA/Basketball.md
+      - CCA/Floorball.md
+      - CCA/Netball.md
       - National Digital Literacy Programme (NDLP).md
