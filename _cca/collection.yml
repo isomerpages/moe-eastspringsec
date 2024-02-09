@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Uniformed Groups/SJB.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/AVA Club.md
