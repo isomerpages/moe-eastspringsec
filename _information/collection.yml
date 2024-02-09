@@ -2,9 +2,9 @@ collections:
   information:
     output: true
     order:
-      - Events/Events (Main).md
-      - Events/.keep
       - Announcements.md
+      - Events/.keep
+      - Events/Events (Main).md
       - School Canteen.md
       - School Rules and Regulations.md
       - School Uniforms and Books.md
