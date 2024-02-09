@@ -2,8 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Teachers/Links.md
-      - Teachers/.keep
       - Announcements.md
       - Events/.keep
       - Events/Events (Main).md
@@ -24,4 +22,6 @@ collections:
       - Students/School Uniforms and Books.md
       - Students/School Rules and Regulations.md
       - Students/Booklist 2024.md
+      - Teachers/.keep
+      - Teachers/Links.md
       - School Canteen.md
