@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Direct School Admission.md
       - Announcements.md
       - Events/.keep
       - Events/Events (Main).md
@@ -25,4 +24,5 @@ collections:
       - Students/Booklist 2024.md
       - Teachers/.keep
       - Teachers/Links.md
+      - Direct School Admission.md
       - School Canteen.md
