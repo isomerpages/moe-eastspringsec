@@ -59,5 +59,7 @@ links:
         url: /information/students/
       - title: Teachers
         url: /information/teachers
+      - title: Direct School Admissions (DSA)
+        url: /information/dsa
   - title: Newsletter
     collection: newsletter
