@@ -53,6 +53,10 @@ links:
     sublinks:
       - title: Announcements
         url: /information/announcements/
+      - title: Events
+        url: /information/events/
+      - title: School Canteen
+        url: /school-information/school-canteen/
       - title: School Rules and Regulations
         url: /school-information/school-rules-and-regulations
       - title: Form Teacher List
@@ -63,7 +67,5 @@ links:
         url: /school-information/school-uniforms-and-books
       - title: Booklist 2024
         url: /school-information/booklist-2024
-      - title: School Canteen
-        url: /school-information/school-canteen/
   - title: Newsletter
     collection: newsletter
