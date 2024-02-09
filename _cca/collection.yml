@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Uniformed Groups/NPCC.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/SJB.md
       - Clubs & Societies/.keep
