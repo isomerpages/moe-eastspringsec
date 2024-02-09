@@ -51,6 +51,8 @@ links:
   - title: Information
     url: /information/
     sublinks:
+      - title: Announcements
+        url: /information/announcements/
       - title: School Management
         url: /school-information/school-management
       - title: School Rules and Regulations
