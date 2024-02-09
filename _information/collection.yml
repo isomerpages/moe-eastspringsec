@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Events/Events (Main).md
       - Events/.keep
       - Announcements.md
       - School Canteen.md
