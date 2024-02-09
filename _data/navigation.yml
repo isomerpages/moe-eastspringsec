@@ -4,13 +4,13 @@ links:
     url: /our-school
     sublinks:
       - title: Vision, Mission, Motto & Value
-        url: /about-us/vision-mission-motto-n-values
+        url: /our-school/vmvm
       - title: School Song
-        url: /about-us/school-song
+        url: /our-school/school-song
       - title: Our Accolades
         url: /our-school/our-accolades
       - title: Contact Us
-        url: /our-school/contact-us/
+        url: /our-school/contact-us
   - title: Our People
     url: /our-people/smc/
     sublinks:
