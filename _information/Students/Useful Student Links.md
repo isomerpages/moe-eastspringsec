@@ -8,7 +8,7 @@ third_nav_title: Students
 <h4></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
 </p>
 </li>
 <li>
