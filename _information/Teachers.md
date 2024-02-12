@@ -4,7 +4,7 @@ permalink: /information/teachers/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Teachers</strong></h4>
+<h4><strong>Useful MOE Links</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener" target="_blank">School Cockpit</a>
