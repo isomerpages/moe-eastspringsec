@@ -95,7 +95,7 @@ helping and peer influencing</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/programmes/enrichment/cce/work-experience-programme-wep" rel="noopener noreferrer nofollow" target="_blank">Work Experience Programme (WEP)</a>
+<p><a href="/student-development/cce/wep" rel="noopener noreferrer nofollow" target="_blank">Work Experience Programme (WEP)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
