@@ -99,7 +99,7 @@ helping and peer influencing</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/programmes/enrichment/cce/integration-programme" rel="noopener noreferrer nofollow" target="_blank">Integration Programme</a>
+<p><a href="/student-development/cce/integration-programme" rel="noopener noreferrer nofollow" target="_blank">Integration Programme</a>
 </p>
 </td>
 </tr>
