@@ -14,7 +14,7 @@ sections:
           url: /information/announcements/
         - title: EVENTS
           description: ""
-          url: /events/main/
+          url: /information/events/
         - title: LINKS
           description: ""
           url: /links
