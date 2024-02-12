@@ -2,6 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Departments/.keep
       - School Management Committee.md
+      - Departments/.keep
       - Form Teachers.md
