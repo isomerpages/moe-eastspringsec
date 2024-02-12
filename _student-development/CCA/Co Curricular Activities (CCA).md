@@ -68,6 +68,6 @@ programme designed by the Community Youth Leadership Committee.</p>
 <br><a href="/student-development/cca/concert-band/" rel="noopener noreferrer nofollow" target="">Concert Band</a>
 </p>
 <p><strong><u>Sports and Games:<br></u></strong><a href="/student-development/cca/badminton/" rel="noopener noreferrer nofollow" target="">Badminton</a> 
-<br><a href="/programmes/enrichment/cca/sports/basketball" rel="noopener noreferrer nofollow" target="">Basketball</a>&nbsp;(Boys)
+<br><a href="/student-development/cca/basketball/" rel="noopener noreferrer nofollow" target="">Basketball</a>&nbsp;(Boys)
 <br><a href="/programmes/enrichment/cca/sports/floorball" rel="noopener noreferrer nofollow" target="">Floorball (Boys) &amp; Floorball (Girls)</a> 
 <br><a href="/programmes/enrichment/cca/sports/netball" rel="noopener noreferrer nofollow" target="">Netball</a>&nbsp;(Girls)</p>
