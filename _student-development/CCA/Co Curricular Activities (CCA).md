@@ -57,7 +57,7 @@ programme designed by the Community Youth Leadership Committee.</p>
 <br><a href="/student-development/cca/sjb/" rel="noopener noreferrer nofollow" target="">St John Brigade (SJB)</a>
 </p>
 <p><strong><u>Clubs and Societies:<br></u></strong><a href="/student-development/cca/art-club/" rel="noopener noreferrer nofollow" target="">Art Club</a> 
-<br><a href="/programmes/enrichment/cca/clubs-and-societies/ava-club" rel="noopener noreferrer nofollow" target="">AVA Club</a> 
+<br><a href="/student-development/cca/ava/" rel="noopener noreferrer nofollow" target="">AVA Club</a> 
 <br><a href="/programmes/enrichment/cca/clubs-and-societies/journalism-club" rel="noopener noreferrer nofollow" target="">Journalism Club</a> 
 <br><a href="/programmes/enrichment/cca/clubs-and-societies/green-club" rel="noopener noreferrer nofollow" target="">Environmental Science Club</a>
 </p>
