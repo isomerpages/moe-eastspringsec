@@ -50,24 +50,24 @@ programme designed by the Community Youth Leadership Committee.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Clubs_and_Societies.JPG">
 </div>
 <h4><strong>Key Events / Activities</strong></h4>
-<p><strong><u>Uniformed Groups:<br></u></strong><a href="/programmes/enrichment/cca/uniformed-groups/ncc" rel="noopener noreferrer nofollow" target="">National Cadet Corps (NCC Land) - (Boys)</a>
+<p><strong><u>Uniformed Groups:<br></u></strong><a href="/student-development/cca/ncc/" rel="noopener noreferrer nofollow" target="">National Cadet Corps (NCC Land) - (Boys)</a> 
 <br><a href="/programmes/enrichment/cca/uniformed-groups/ncdcc" rel="noopener noreferrer nofollow" target="">National Civil Defence Cadet Corps (NCDCC)</a>&nbsp;
-<br><a href="/programmes/enrichment/cca/uniformed-groups/npcc" rel="noopener noreferrer nofollow" target="">National Police Cadet Corps (NPCC)</a>
-<br><a href="/programmes/enrichment/cca/uniformed-groups/scouts" rel="noopener noreferrer nofollow" target="">Scouts</a>
+<br><a href="/programmes/enrichment/cca/uniformed-groups/npcc" rel="noopener noreferrer nofollow" target="">National Police Cadet Corps (NPCC)</a> 
+<br><a href="/programmes/enrichment/cca/uniformed-groups/scouts" rel="noopener noreferrer nofollow" target="">Scouts</a> 
 <br><a href="/programmes/enrichment/cca/uniformed-groups/sjb" rel="noopener noreferrer nofollow" target="">St John Brigade (SJB)</a>
 </p>
-<p><strong><u>Clubs and Societies:<br></u></strong><a href="/programmes/enrichment/cca/clubs-and-societies/art-club" rel="noopener noreferrer nofollow" target="">Art Club</a>
-<br><a href="/programmes/enrichment/cca/clubs-and-societies/ava-club" rel="noopener noreferrer nofollow" target="">AVA Club</a>
-<br><a href="/programmes/enrichment/cca/clubs-and-societies/journalism-club" rel="noopener noreferrer nofollow" target="">Journalism Club</a>
+<p><strong><u>Clubs and Societies:<br></u></strong><a href="/programmes/enrichment/cca/clubs-and-societies/art-club" rel="noopener noreferrer nofollow" target="">Art Club</a> 
+<br><a href="/programmes/enrichment/cca/clubs-and-societies/ava-club" rel="noopener noreferrer nofollow" target="">AVA Club</a> 
+<br><a href="/programmes/enrichment/cca/clubs-and-societies/journalism-club" rel="noopener noreferrer nofollow" target="">Journalism Club</a> 
 <br><a href="/programmes/enrichment/cca/clubs-and-societies/green-club" rel="noopener noreferrer nofollow" target="">Environmental Science Club</a>
 </p>
-<p><strong><u>Performing Arts:<br></u></strong><a href="/programmes/enrichment/cca/performing-arts/chinese-dance" rel="noopener noreferrer nofollow" target="">Chinese Dance</a>
-<br><a href="/programmes/enrichment/cca/performing-arts/choir" rel="noopener noreferrer nofollow" target="">Choir</a>
-<br><a href="/programmes/enrichment/cca/performing-arts/drama" rel="noopener noreferrer nofollow" target="">English Drama</a>
-<br><a href="/programmes/enrichment/cca/performing-arts/malay-dance" rel="noopener noreferrer nofollow" target="">Malay Dance</a>
+<p><strong><u>Performing Arts:<br></u></strong><a href="/programmes/enrichment/cca/performing-arts/chinese-dance" rel="noopener noreferrer nofollow" target="">Chinese Dance</a> 
+<br><a href="/programmes/enrichment/cca/performing-arts/choir" rel="noopener noreferrer nofollow" target="">Choir</a> 
+<br><a href="/programmes/enrichment/cca/performing-arts/drama" rel="noopener noreferrer nofollow" target="">English Drama</a> 
+<br><a href="/programmes/enrichment/cca/performing-arts/malay-dance" rel="noopener noreferrer nofollow" target="">Malay Dance</a> 
 <br><a href="/programmes/enrichment/cca/performing-arts/concert-band" rel="noopener noreferrer nofollow" target="">Concert Band</a>
 </p>
-<p><strong><u>Sports and Games:<br></u></strong><a href="/programmes/enrichment/cca/sports/badminton" rel="noopener noreferrer nofollow" target="">Badminton</a>
+<p><strong><u>Sports and Games:<br></u></strong><a href="/programmes/enrichment/cca/sports/badminton" rel="noopener noreferrer nofollow" target="">Badminton</a> 
 <br><a href="/programmes/enrichment/cca/sports/basketball" rel="noopener noreferrer nofollow" target="">Basketball</a>&nbsp;(Boys)
-<br><a href="/programmes/enrichment/cca/sports/floorball" rel="noopener noreferrer nofollow" target="">Floorball (Boys) &amp; Floorball (Girls)</a>
+<br><a href="/programmes/enrichment/cca/sports/floorball" rel="noopener noreferrer nofollow" target="">Floorball (Boys) &amp; Floorball (Girls)</a> 
 <br><a href="/programmes/enrichment/cca/sports/netball" rel="noopener noreferrer nofollow" target="">Netball</a>&nbsp;(Girls)</p>
