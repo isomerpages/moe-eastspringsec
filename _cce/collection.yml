@@ -2,5 +2,4 @@ collections:
   cce:
     output: true
     order:
-      - Work Experience Programme (WEP).md
       - Integration Programme.md
