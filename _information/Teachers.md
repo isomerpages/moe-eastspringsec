@@ -31,29 +31,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Students</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://workspace.google.com/dashboard" rel="noopener" target="_blank">iCON</a>
-</p>
-</li>
-<li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener" target="_blank">Student Learning Space (SLS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.seab.gov.sg/" rel="noopener" target="_blank">GCE Examination Matters And Syllabus</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.eastspringsec.moe.edu.sg/school-information/school-uniforms-and-books/" rel="noopener" target="_blank">School Uniform and School Book Supplier Info</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.eastspringsec.moe.edu.sg/school-information/booklist-2024/" rel="noopener" target="_blank">2024 Booklist</a>
-</p>
-</li>
-</ul>
 <h4><strong>Parents Gateway</strong></h4>
 <p><a href="/partners/parents-gateway" rel="noopener noreferrer nofollow" target="_blank">Click here to find out more about Parents Gateway</a>
 </p>
