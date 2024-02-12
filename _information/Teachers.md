@@ -36,5 +36,5 @@ variant: tiptap
 </p>
 <hr>
 <h4><strong>National Digital Literacy Programme (NDLP)</strong></h4>
-<p><a href="/ndlp" rel="noopener" target="_blank">Click here to find out more about National Digital Literacy Programme (NDLP)</a>
+<p><a href="/student-development/ndlp/" rel="noopener" target="_blank">Click here to find out more about National Digital Literacy Programme (NDLP)</a>
 </p>
