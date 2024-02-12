@@ -59,7 +59,7 @@ programme designed by the Community Youth Leadership Committee.</p>
 <p><strong><u>Clubs and Societies:<br></u></strong><a href="/student-development/cca/art-club/" rel="noopener noreferrer nofollow" target="">Art Club</a> 
 <br><a href="/student-development/cca/ava/" rel="noopener noreferrer nofollow" target="">AVA Club</a> 
 <br><a href="/student-development/cca/journalism-club/" rel="noopener noreferrer nofollow" target="">Journalism Club</a> 
-<br><a href="/programmes/enrichment/cca/clubs-and-societies/green-club" rel="noopener noreferrer nofollow" target="">Environmental Science Club</a>
+<br><a href="/student-development/cca/environmental-science-club/" rel="noopener noreferrer nofollow" target="">Environmental Science Club</a>
 </p>
 <p><strong><u>Performing Arts:<br></u></strong><a href="/programmes/enrichment/cca/performing-arts/chinese-dance" rel="noopener noreferrer nofollow" target="">Chinese Dance</a> 
 <br><a href="/programmes/enrichment/cca/performing-arts/choir" rel="noopener noreferrer nofollow" target="">Choir</a> 
