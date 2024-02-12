@@ -53,7 +53,7 @@ programme designed by the Community Youth Leadership Committee.</p>
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/student-development/cca/ncc/" rel="noopener noreferrer nofollow" target="">National Cadet Corps (NCC Land) - (Boys)</a> 
 <br><a href="/student-development/cca/ncdcc/" rel="noopener noreferrer nofollow" target="">National Civil Defence Cadet Corps (NCDCC)</a>&nbsp;
 <br><a href="/student-development/cca/npcc/" rel="noopener noreferrer nofollow" target="">National Police Cadet Corps (NPCC)</a> 
-<br><a href="/programmes/enrichment/cca/uniformed-groups/scouts" rel="noopener noreferrer nofollow" target="">Scouts</a> 
+<br><a href="/student-development/cca/scouts/" rel="noopener noreferrer nofollow" target="">Scouts</a> 
 <br><a href="/programmes/enrichment/cca/uniformed-groups/sjb" rel="noopener noreferrer nofollow" target="">St John Brigade (SJB)</a>
 </p>
 <p><strong><u>Clubs and Societies:<br></u></strong><a href="/programmes/enrichment/cca/clubs-and-societies/art-club" rel="noopener noreferrer nofollow" target="">Art Club</a> 
