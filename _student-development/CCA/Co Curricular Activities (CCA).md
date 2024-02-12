@@ -64,7 +64,7 @@ programme designed by the Community Youth Leadership Committee.</p>
 <p><strong><u>Performing Arts:<br></u></strong><a href="/student-development/cca/chinese-dance/" rel="noopener noreferrer nofollow" target="">Chinese Dance</a> 
 <br><a href="/student-development/cca/choir/" rel="noopener noreferrer nofollow" target="">Choir</a> 
 <br><a href="/student-development/cca/english-drama/" rel="noopener noreferrer nofollow" target="">English Drama</a> 
-<br><a href="/programmes/enrichment/cca/performing-arts/malay-dance" rel="noopener noreferrer nofollow" target="">Malay Dance</a> 
+<br><a href="/student-development/cca/malay-dance/" rel="noopener noreferrer nofollow" target="">Malay Dance</a> 
 <br><a href="/programmes/enrichment/cca/performing-arts/concert-band" rel="noopener noreferrer nofollow" target="">Concert Band</a>
 </p>
 <p><strong><u>Sports and Games:<br></u></strong><a href="/programmes/enrichment/cca/sports/badminton" rel="noopener noreferrer nofollow" target="">Badminton</a> 
