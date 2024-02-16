@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: /announcement/
+          url: /information/announcements/
         - title: EVENTS
           description: ""
-          url: /events/main/
+          url: /information/events/
         - title: LINKS
           description: ""
-          url: /links
+          url: /information/students/links/
         - title: ESSS INSTAGRAM
           description: ""
           url: https://www.instagram.com/eastspringsec/

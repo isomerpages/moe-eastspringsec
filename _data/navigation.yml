@@ -1,39 +1,67 @@
 logo: /images/logo.jpg
 links:
-  - title: About Us
-    url: /about-us
+  - title: Our School
+    url: /our-school
     sublinks:
       - title: Vision, Mission, Motto & Value
-        url: /about-us/vision-mission-motto-n-values
+        url: /our-school/vmvm
       - title: School Song
-        url: /about-us/school-song
-  - title: School Information
-    url: /school-information/school-management
+        url: /our-school/school-song
+      - title: Our Accolades
+        url: /our-school/our-accolades/student-accolades/
+      - title: Contact Us
+        url: /our-school/contact-us
+  - title: Our People
+    url: /our-people/smc/
     sublinks:
-      - title: School Management
-        url: /school-information/school-management
-      - title: School Rules and Regulations
-        url: /school-information/school-rules-and-regulations
-      - title: Form Teacher List
-        url: /school-information/form-teacher-list
-      - title: 2023 School Calendar
-        url: /school-information/2023-school-calendar/
-      - title: School Uniforms and Books
-        url: /school-information/school-uniforms-and-books
-      - title: Booklist 2024
-        url: /school-information/booklist-2024
-      - title: School Canteen
-        url: /school-information/school-canteen/
-  - title: Programmes
-    url: /programmes
+      - title: School Management Committee
+        url: /our-people/smc
+      - title: Departments
+        url: /our-people/departments/
+      - title: Form Teachers
+        url: /our-people/form-teachers
+  - title: Curriculum
+    url: /curriculum/el
     sublinks:
-      - title: Instructional
-        url: /programmes/instructional/departments/english
-      - title: Enrichment
-        url: /programmes/enrichment/cca
-      - title: Distinctive
-        url: /programmes/distinctive/alp
-      - title: Direct School Admission
-        url: /programmes/direct-school-admission
-  - title: Newsletter
-    collection: newsletter
+      - title: English Language & Literature
+        url: /curriculum/el
+      - title: Mathematics
+        url: /curriculum/mathematics
+      - title: Science
+        url: /curriculum/science
+      - title: Humanities
+        url: /curriculum/humanities
+      - title: Mother Tongue Languages
+        url: /curriculum/mtl
+      - title: Craft & Technology
+        url: /curriculum/ct
+      - title: Physical Education
+        url: /curriculum/pe
+  - title: Student Development
+    url: /student-development/
+    sublinks:
+      - title: CCE
+        url: /student-development/cce
+      - title: Applied Learning Programme
+        url: /student-development/alp
+      - title: Learning for Life Programme
+        url: /student-development/llp
+      - title: CCA
+        url: /student-development/cca
+      - title: NDLP
+        url: /student-development/ndlp
+  - title: Information
+    url: /information/students/
+    sublinks:
+      - title: Announcements
+        url: /information/announcements/
+      - title: Events
+        url: /information/events/
+      - title: Students
+        url: /information/students/links/
+      - title: Teachers
+        url: /information/teachers/
+      - title: Parents
+        url: /information/parents
+      - title: Direct School Admissions (DSA)
+        url: /information/dsa

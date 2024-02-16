@@ -1,0 +1,12 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English Language and Literature.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Mother Tongue Language.md
+      - Craft and Technology.md
+      - Physical Education.md
+      - Programmes.md

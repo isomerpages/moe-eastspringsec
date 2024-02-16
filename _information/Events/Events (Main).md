@@ -1,0 +1,113 @@
+---
+title: Events (Main)
+permalink: /information/events/
+variant: tiptap
+description: ""
+third_nav_title: Events
+---
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20Deepavali/Deepavalithumbnail.jfif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024%20Sec1%20Info%20(P_S)/Sec1_thumbnail.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec_1_MPS.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/events/deepavali2023" rel="noopener noreferrer nofollow" target="_blank">Deepavali Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/events/2024sec1information" rel="noopener noreferrer nofollow" target="_blank">2024 Sec1 Information for Parents and Students</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/events/2024-sec-1-meet-the-parents-session-5-jan-2024/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 MPS</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20OLJ%20(Vietnam)/OLJthumbnail.jfif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20Teachers'%20Day/TDthumbnail.jfif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20Graduation%20Day/Gradthumbnail.jfif">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/events/olj2023" rel="noopener noreferrer nofollow" target="_blank">Overseas Learning Journey [Vietnam]</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/events/td2023" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/events/gradday2023" rel="noopener noreferrer nofollow" target="_blank">2023 Graduation Day</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20School%20Carnival/Sch_Carnival_thumbnail.jfif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20RHD/RDthumbnail.jfif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20National%20Day/NDPthumbnail.jfif">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/events/schoolcarnival2023/" rel="noopener noreferrer nofollow" target="_blank">2023 School Carnival</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/events/rhd2023/" rel="noopener noreferrer nofollow" target="_blank">2023 Racial Harmony Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/events/ndp2023/" rel="noopener noreferrer nofollow" target="_blank">2023 National Day Celebration</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

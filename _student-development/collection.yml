@@ -1,0 +1,34 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Cyber Wellness.md
+      - CCE/Education and Career Guidance.md
+      - CCE/Sexuality Education.md
+      - CCE/Work Experience Programme (WEP).md
+      - CCE/Integration Programme.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - CCA/.keep
+      - CCA/Co Curricular Activities (CCA).md
+      - CCA/National Cadet Corps (NCC).md
+      - CCA/National Civil Defence Cadet Corps (NCDCC).md
+      - CCA/National Police Cadet Corps (NPCC).md
+      - CCA/Scouts.md
+      - CCA/St John Brigade (SJB).md
+      - CCA/Art Club.md
+      - CCA/AVA Club.md
+      - CCA/Journalism Club.md
+      - CCA/Environmental Science Club.md
+      - CCA/Choir.md
+      - CCA/English Drama.md
+      - CCA/Chinese Dance.md
+      - CCA/Malay Dance.md
+      - CCA/Concert Band.md
+      - CCA/Badminton.md
+      - CCA/Basketball.md
+      - CCA/Floorball.md
+      - CCA/Netball.md
+      - National Digital Literacy Programme (NDLP).md

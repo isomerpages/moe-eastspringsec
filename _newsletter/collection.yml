@@ -1,5 +1,0 @@
-collections:
-  newsletter:
-    output: true
-    order:
-      - Newsletter.md
