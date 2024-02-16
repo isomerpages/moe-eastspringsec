@@ -23,7 +23,7 @@ third_nav_title: Students
 <p>MIMS Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a> 
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
 </p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ third_nav_title: Students
 <p>MIMS Self-Service Password Reset (SSPR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mims.moe.gov.sg/sspr/" rel="noopener noreferrer nofollow" target="_blank"><u>https://mims.moe.gov.sg/sspr/</u></a>
+<p><a href="https://mims.moe.gov.sg/sspr/" rel="noopener noreferrer nofollow" target="_blank"><u>https://mims.moe.gov.sg/sspr/</u></a> 
 <a href="/files/Posters_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Student</a>
 </p>
 <p><a href="/files/Posters_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Self Password Reset Guide.pdf</a>
