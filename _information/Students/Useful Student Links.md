@@ -50,6 +50,15 @@ third_nav_title: Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ESSS Blended Learning website</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> <a href="https://for.edu.sg/blendedlearning-esss" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/blendedlearning-esss</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MOE Student iCON email (login using MIMS)</p>
 </td>
 <td rowspan="1" colspan="1">
