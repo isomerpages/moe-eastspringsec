@@ -9,4 +9,3 @@ third_nav_title: Events
 
 Thank you parents for attending the MPS. 
 
-You may access the slides [here](https://drive.google.com/file/d/1LNqQkQZrsbmtBII9umsgzrPCRm0sd5vM/view?usp=sharing).
