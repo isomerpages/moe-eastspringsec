@@ -10,7 +10,7 @@ third_nav_title: Events
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20Deepavali/Deepavalithumbnail.jfif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec3_MPS.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -26,7 +26,8 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/events/deepavali2023" rel="noopener noreferrer nofollow" target="_blank">Deepavali Celebration</a>
+<p></p>
+<p><a href="/events/2024-sec3-mps/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec3 MPS</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,4 +111,47 @@ third_nav_title: Events
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2023_Deepavali_thumbnail.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/events/deepavali2023" rel="noopener noreferrer nofollow" target="_blank">Deepavali Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>The thumbnails are generated from <a href="https://www.bing.com/images/create?q=school%20leader%20addressing%20parents%20of%20secondary%20school%20students%20in%20the%20school%20hall&amp;rt=4&amp;FORM=GENCRE&amp;id=1-65cf2287804e4a49825eb9134fdb5d53" rel="noopener noreferrer nofollow" target="_blank">https://www.bing.com/images/</a>
+</p>
