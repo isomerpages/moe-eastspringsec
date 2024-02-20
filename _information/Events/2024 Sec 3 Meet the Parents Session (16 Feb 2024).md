@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024/240216 Sec3 MPS/Temasek_Polytechnic_Outreach_Slides_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic </a>
+<p><a href="/files/2024/240216 Sec3 MPS/Temasek_Polytechnic_Outreach_Slides_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
