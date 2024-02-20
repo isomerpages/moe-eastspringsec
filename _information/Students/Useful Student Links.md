@@ -53,7 +53,7 @@ third_nav_title: Students
 <p>ESSS Blended Learning website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="https://for.edu.sg/blendedlearning-esss" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/blendedlearning-esss</a>
+<p><a href="https://for.edu.sg/blendedlearning-esss" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/blendedlearning-esss</a>
 </p>
 </td>
 </tr>
