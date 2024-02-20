@@ -29,7 +29,7 @@ variant: tiptap
 <p>MIMS Password Reset</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://idp.mims.moe.gov.sg/nidp/saml2/sso</u></a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank"><u>https://idp.mims.moe.gov.sg/nidp/saml2/sso</u></a>
 </p>
 </td>
 </tr>
@@ -38,7 +38,7 @@ variant: tiptap
 <p>School cockpit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://schoolcockpit.moe.gov.sg/</u></a>
+<p><a href="https://schoolcockpit.moe.gov.sg/CP/scapp/security" rel="noopener noreferrer nofollow" target="_blank"><u>https://schoolcockpit.moe.gov.sg/</u></a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>SLS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/login</u></a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/login</u></a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>SC Mobile</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://scmobile.moe.edu.sg/</u></a>
+<p><a href="https://scmobile.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://scmobile.moe.edu.sg/</u></a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ variant: tiptap
 <p>Parent Gateway</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pg.moe.edu.sg/</u></a>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pg.moe.edu.sg/</u></a>
 </p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Resource Booking System</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://rbs.avero-tech.com/login.html</u></a>
+<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://rbs.avero-tech.com/login.html</u></a>
 </p>
 </td>
 </tr>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>All Ears Forms Builder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Forms (moe.edu.sg)</u></a>
+<p><a href="https://allears.estl.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Forms (moe.edu.sg)</u></a>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ variant: tiptap
 <p>Form SG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://form.gov.sg/</u></a>
+<p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://form.gov.sg/</u></a>
 </p>
 </td>
 </tr>
@@ -102,7 +102,7 @@ variant: tiptap
 links</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>for.edu.sg</u></a>
+<p><a href="for.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>for.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -112,7 +112,7 @@ links</p>
 links</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg</u></a>
+<p><a href="https://go.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -121,7 +121,7 @@ links</p>
 <p>HR Online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</u></a>
+<p><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</u></a>
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ links</p>
 <p>HRP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hrp.gov.sg</u></a>
+<p><a href="https://www.hrp.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hrp.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ links</p>
 <p>MOE Intranet Applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx</u></a>
+<p><a href="https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx</u></a>
 </p>
 </td>
 </tr>
@@ -157,7 +157,7 @@ links</p>
 <p>OPAL 2.0</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://idm.opal2.moe.edu.sg/</u></a>
+<p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://idm.opal2.moe.edu.sg/</u></a>
 </p>
 </td>
 </tr>
@@ -166,7 +166,7 @@ links</p>
 <p>SSOE 2 Service Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ssoe2.moe.edu.sg/</u></a>
+<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ssoe2.moe.edu.sg/</u></a>
 </p>
 </td>
 </tr>
