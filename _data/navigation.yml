@@ -38,7 +38,7 @@ links:
       - title: Physical Education
         url: /curriculum/pe
   - title: Student Development
-    url: /student-development/
+    url: /student-development/cce
     sublinks:
       - title: CCE
         url: /student-development/cce
@@ -51,7 +51,7 @@ links:
       - title: NDLP
         url: /student-development/ndlp
   - title: Information
-    url: /information/students/
+    url: /information/students/links/
     sublinks:
       - title: Announcements
         url: /information/announcements/
