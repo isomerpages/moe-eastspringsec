@@ -47,5 +47,5 @@ consistent effort in studies and Co-Curricular Activity (CCA).</p>
 <p><strong>Application process</strong>
 </p>
 <p>The application process for our talent area will be updated from early-May.
-For more information on DSA-Sec, please refer to the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
