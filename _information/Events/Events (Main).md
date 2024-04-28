@@ -27,7 +27,7 @@ third_nav_title: Events
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="/events/2024-sec3-mps/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec4 MPS</a>
+<p><a href="/events/2024-sec4-mps/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec4 MPS</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
