@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Events
 variant: tiptap
 ---
-<h2>2024 Sec 3 Meet-The-Parents Session (16 Feb 2024)</h2>
-<p>Thank you parents for attending the Meet The Parents Session on 16 Feb
+<h2>2024 Sec 4 Meet-The-Parents Session (26 April 2024)</h2>
+<p>Thank you parents for attending the Meet The Parents Session on 26 April
 2024.</p>
+<p></p>
+<p>The slides will be posted here soon.</p>
 <p></p>
