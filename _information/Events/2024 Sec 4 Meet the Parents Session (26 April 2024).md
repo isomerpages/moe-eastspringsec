@@ -9,5 +9,5 @@ variant: tiptap
 <p>Thank you parents for attending the Meet The Parents Session on 26 April
 2024.</p>
 <p></p>
-<p>The slides will be posted here soon.</p>
+<p>You can download the slides shared <a href="https://drive.google.com/file/d/1e65xjtUl8qUIrfERwVSQRRpzmSNuNl47/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
