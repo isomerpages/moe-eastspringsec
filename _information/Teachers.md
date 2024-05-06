@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Useful MOE Links</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -177,3 +181,7 @@ links</p>
 <h4><strong>National Digital Literacy Programme (NDLP)</strong></h4>
 <p><a href="/student-development/ndlp/" rel="noopener" target="_blank">Click here to find out more about National Digital Literacy Programme (NDLP)</a>
 </p>
+<p></p>
+<h4><strong>ICT support for school programmes</strong></h4>
+<p>For ICT support in ESSS, please fill up the form <a href="https://forms.gle/W6J5RnxwZcu3hppB7" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>

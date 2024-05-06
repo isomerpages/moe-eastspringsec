@@ -44,8 +44,23 @@ consistent effort in studies and Co-Curricular Activity (CCA).</p>
 </li>
 </ul>
 <p></p>
+<p><strong>Interview</strong>
+</p>
+<p>We will be conducting in-person selection in the 2024 DSA-Sec exercise.
+Shortlisted DSA-Sec (Leadership) applicants will be informed to attend
+an in-person interview at our school.&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>Application process</strong>
 </p>
-<p>The application process for our talent area will be updated from early-May.
-For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024, 11am
+to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1-4.</p>
+<p></p>
