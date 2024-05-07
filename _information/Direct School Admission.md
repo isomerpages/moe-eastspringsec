@@ -54,7 +54,7 @@ an in-person interview at our school.&nbsp;</p>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
