@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,7 +32,7 @@ third_nav_title: Events
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="/events/2024-sec4-mps/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec4 MPS</a>
+<p><a href="/events/2024-sec2-mps/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec2 MPS</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +46,12 @@ third_nav_title: Events
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -76,7 +86,12 @@ third_nav_title: Events
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -111,7 +126,12 @@ third_nav_title: Events
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
