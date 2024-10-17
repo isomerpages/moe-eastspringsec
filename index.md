@@ -28,4 +28,6 @@ sections:
       id: infopic
       image: /images/2024_ESSS_Open_House_Instagram_Post__updated_.png
       alt: Image alt text
+      button: Click here to register
+      url: https://forms.moe.edu.sg/forms/J57j5p
 ---
