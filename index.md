@@ -23,4 +23,9 @@ sections:
           url: https://www.instagram.com/eastspringsec/
       variant: center
       url: /events/2024sec1information/
+  - infopic:
+      title: ESSS Open House 2024
+      id: infopic
+      image: /images/2024_ESSS_Open_House_Instagram_Post__updated_.png
+      alt: Image alt text
 ---
