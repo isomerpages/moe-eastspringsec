@@ -6,7 +6,11 @@ description: ""
 third_nav_title: Students
 ---
 <h4></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -86,7 +90,7 @@ third_nav_title: Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 Booklist</p>
+<p>2025 Booklist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.eastspringsec.moe.edu.sg/school-information/booklist-2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.eastspringsec.moe.edu.sg/school-information/booklist-2024/</a>
