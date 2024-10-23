@@ -32,7 +32,7 @@ third_nav_title: Students
 <h4><strong>Pacific Bookstores Pte Ltd</strong></h4>
 <p><strong>Operating hours:</strong>
 </p>
-<p><a href="/school-information/booklist-2024" rel="noopener noreferrer nofollow" target="">Selected dates as stated in the Booklist</a>
+<p><a href="https://www.eastspringsec.moe.edu.sg/information/students/booklist/" rel="noopener noreferrer nofollow" target="">Selected dates as stated in the Booklist</a>
 </p>
 <p><strong>For enquiries:</strong>
 </p>
