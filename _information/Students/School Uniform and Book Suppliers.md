@@ -17,11 +17,7 @@ third_nav_title: Students
 <p>Selected dates as stated in the</p>
 <p><a href="/files/2025/Uniform_Order_Form_2025.pdf" rel="noopener nofollow" target="_blank">Uniform Order Form 2025</a>
 </p>
-<p>For enquiries:
-<br>
-</p>
-<p></p>
-<p></p>
+<p>For enquiries:</p>
 <p>Phone: 6764 3102
 <br>Email:&nbsp;<a href="mailto:eastspringsec@asencio.com.sg" rel="noopener noreferrer nofollow" target="">eastspringsec@asencio.com.sg</a>
 </p>
