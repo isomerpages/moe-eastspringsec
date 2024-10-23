@@ -6,7 +6,11 @@ description: ""
 third_nav_title: Students
 ---
 <h4></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -80,16 +84,16 @@ third_nav_title: Students
 <p>School Uniform and Book Supplier</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.eastspringsec.moe.edu.sg/school-information/school-uniforms-and-books/" rel="noopener noreferrer nofollow" target="_blank">https://www.eastspringsec.moe.edu.sg/school-information/school-uniforms-and-books/</a>
+<p><a href="https://www.eastspringsec.moe.edu.sg/information/students/school-uniforms-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">https://www.eastspringsec.moe.edu.sg/school-information/school-uniforms-and-books/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 Booklist</p>
+<p>2025 Booklist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.eastspringsec.moe.edu.sg/school-information/booklist-2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.eastspringsec.moe.edu.sg/school-information/booklist-2024/</a>
+<p><a href="https://www.eastspringsec.moe.edu.sg/information/students/booklist/" rel="noopener noreferrer nofollow" target="_blank">https://www.eastspringsec.moe.edu.sg/information/students/booklist</a>
 </p>
 </td>
 </tr>
