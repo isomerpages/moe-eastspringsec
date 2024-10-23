@@ -84,7 +84,7 @@ third_nav_title: Students
 <p>School Uniform and Book Supplier</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.eastspringsec.moe.edu.sg/school-information/school-uniforms-and-books/" rel="noopener noreferrer nofollow" target="_blank">https://www.eastspringsec.moe.edu.sg/school-information/school-uniforms-and-books/</a>
+<p><a href="https://www.eastspringsec.moe.edu.sg/information/students/school-uniforms-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">https://www.eastspringsec.moe.edu.sg/school-information/school-uniforms-and-books/</a>
 </p>
 </td>
 </tr>
