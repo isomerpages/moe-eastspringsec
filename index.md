@@ -23,9 +23,9 @@ sections:
           url: https://www.instagram.com/eastspringsec/
       variant: center
       url: /events/2024sec1information/
-  - infopic:
-      title: Information for 2025 Sec 1 students
-      id: infopic
-      image: /images/2024_ESSS_Open_House_Instagram_Post__updated_.png
-      alt: Image alt text
+  - infobar:
+      title: Information for 2025 Secondary One students
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
