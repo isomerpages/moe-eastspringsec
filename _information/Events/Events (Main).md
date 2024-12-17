@@ -14,9 +14,7 @@ third_nav_title: Events
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec3_MPS.png">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -24,24 +22,19 @@ third_nav_title: Events
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec_1_MPS.png">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="/events/2024-sec2-mps/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec2 MPS</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/events/2025sec1information" rel="noopener noreferrer nofollow" target="_blank">2025 Sec1 Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/2024-sec-1-meet-the-parents-session-5-jan-2024/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 MPS</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
