@@ -36,7 +36,7 @@ third_nav_title: Events
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/2024sec1information" rel="noopener noreferrer nofollow" target="_blank">2024 Sec1 Information for Parents and Students</a>
+<p><a href="/events/2025sec1information" rel="noopener noreferrer nofollow" target="_blank">2025 Sec1 Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
