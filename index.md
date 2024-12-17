@@ -26,6 +26,5 @@ sections:
   - infobar:
       title: Information for 2025 Secondary One students
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: Please click here for more information
 ---
