@@ -174,6 +174,15 @@ links</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ESSS ICT Department Info Site</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://for.edu.sg/esss-allthingsict" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/esss-allthingsict</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -183,5 +192,12 @@ links</p>
 </p>
 <p></p>
 <h4><strong>ICT support for school programmes</strong></h4>
-<p>For ICT support in ESSS, please fill up the form <a href="https://forms.gle/W6J5RnxwZcu3hppB7" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><em>Please request for support at least </em><strong><em><u>five working days for T&amp;L support (e.g. lesson ob room) </u></em></strong><em>and at least</em><strong><em><u> ten working days for e-assessments.</u>&nbsp;</em></strong>
+</p>
+<p>1) For ICT T&amp;L and e-assessment support in ESSS, please fill up the
+form <a href="https://for.edu.sg/esssictsupport" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.edu.sg/esssictsupport&nbsp;</u></a>.</p>
+<p>2) Reports faults for projects, classroom speakers (excluding PA system
+speakers), HDMI cables, and visualisers.</p>
+<p><a href="https://for.edu.sg/esssictfault" rel="noopener noreferrer nofollow" target="_blank"><u>https://for.edu.sg/esssictfault</u></a>
+</p>
 <p></p>
