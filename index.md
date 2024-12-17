@@ -26,5 +26,7 @@ sections:
   - infobar:
       title: Information for 2025 Secondary One students
       id: infobar
-      description: Please click here for more information
+      description: Please click below for more information.
+      url: /events/2025sec1information/
+      button: for more information
 ---
