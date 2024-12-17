@@ -24,10 +24,8 @@ sections:
       variant: center
       url: /events/2024sec1information/
   - infopic:
-      title: ESSS Open House 2024
+      title: Information for 2025 Sec 1 students
       id: infopic
       image: /images/2024_ESSS_Open_House_Instagram_Post__updated_.png
       alt: Image alt text
-      button: Click here to register
-      url: https://forms.moe.edu.sg/forms/J57j5p
 ---
