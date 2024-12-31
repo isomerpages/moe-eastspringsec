@@ -244,9 +244,8 @@ This is a service provided by Google as part of Google Suite.&nbsp;</p>
 Microsoft Office tools that include Word, PowerPoint and Excel.&nbsp;</p>
 </li>
 <li>
-<p>Zoom: Every secondary school student will be given a Zoom free account
-with a 40 minute time limit using the Student iCON for the students’ video
-conferencing needs.</p>
+<p>Google Meet: Every student will have access using their Student iCON for
+the students’ video conferencing needs.</p>
 </li>
 </ol>
 <h4>Digital Literacy and Cyber Wellness Resources for Parents</h4>
@@ -257,10 +256,6 @@ online:</p>
 <ul>
 <li>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>&nbsp;</p>
-</li>
-<li>
-<p><a href="https://www.betterinternet.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.betterinternet.sg/</a>
-</p>
 </li>
 <li>
 <p><a href="http://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://sure.nlb.gov.sg/</a>
