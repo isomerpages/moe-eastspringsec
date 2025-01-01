@@ -299,4 +299,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>_Updated on 23 Jan 2024</p>
+<p>Updated on 01 Jan 2025</p>
