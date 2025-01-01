@@ -156,14 +156,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Ser</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Chinese Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mohd Jailani Bin Mokri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,15 +164,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nuratiqah Binte Abu Bakar</p>
+<p>Ms Syed Jarina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Secondary Three)</p>
+<p>Assistant Year Head (Secondary One)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lena Ang</p>
+<p>Mdm Sherilyn Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Secondary Two)</p>
@@ -188,10 +180,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Lena Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Assistant Year Head (Secondary Three)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nuratiqah Binte Abu Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Secondary Four and Five)</p>
 </td>
 </tr>
 </tbody>
