@@ -4,7 +4,11 @@ permalink: /our-people/smc/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Johnny Ang</p>
+<p>Mr Koh Chee Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (EO)</p>
@@ -32,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Chee Hui</p>
+<p>Mr Lim Pia Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (EO)</p>
@@ -48,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Farhanah Bte Samsudin</p>
+<p>Mr Syed Noor Al-Aliff B Syed Alwi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Secondary)</p>
@@ -56,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noreha Bte Nordin</p>
+<p>Mdm Khalidal Huda Sukaimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -80,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Han Pin</p>
+<p>Ms Veronica Tan Wan Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Educational Support)</p>
@@ -88,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Shaiful Bin Suradi</p>
+<p>Mdm Noreha Bte Nordin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (English Language)</p>
@@ -96,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Khalidal Huda Sukaimi</p>
+<p>Ms Tan Shu Fen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Humanities)</p>
@@ -120,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Chui Mei</p>
+<p>Ms Jessica Ser Zhi Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Mother Tongue Languages)</p>
@@ -128,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Prabaakaran S/O Janarthanan</p>
+<p>Ms Pey Huey Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Physical Education &amp; Co-Curricular Activities)</p>
@@ -136,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lilian Tan</p>
+<p>Ms Farhanah Bte Samsudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Science)</p>
@@ -152,14 +156,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Ser</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Chinese Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mohd Jailani Bin Mokri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,10 +164,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nuratiqah Binte Abu Bakar</p>
+<p>Ms Syed Jarina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Secondary Three)</p>
+<p>Assistant Year Head (Secondary One)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sherilyn Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Secondary Two)</p>
 </td>
 </tr>
 <tr>
@@ -179,10 +183,18 @@ variant: tiptap
 <p>Mrs Lena Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Secondary Two)</p>
+<p>Assistant Year Head (Secondary Three)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nuratiqah Binte Abu Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Secondary Four and Five)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>Updated 04 Jan 2024</em>
+<p><em>Updated 01 Jan 2025</em>
 </p>
