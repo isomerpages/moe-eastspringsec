@@ -109,15 +109,15 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/events/schoolcarnival2023/" rel="noopener noreferrer nofollow" target="_blank">2023 School Carnival</a>
+<p><a href="/events/schoolcarnival2023/" rel="noopener noreferrer nofollow" target="_blank">School Carnival</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/rhd2023/" rel="noopener noreferrer nofollow" target="_blank">2023 Racial Harmony Day</a>
+<p><a href="/events/rhd2023/" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Day</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/ndp2023/" rel="noopener noreferrer nofollow" target="_blank">2023 National Day Celebration</a>
+<p><a href="/events/ndp2023/" rel="noopener noreferrer nofollow" target="_blank">National Day Celebration</a>
 </p>
 </td>
 </tr>
