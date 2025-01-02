@@ -5,3 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
+<p>The slides will be made available on the following week after the event
+for one week. Thank you.</p>
