@@ -1,5 +1,5 @@
 ---
-title: Overseas Learning Journey Vietnam (16 to 19 Aug 2023)
+title: Overseas Learning Journey Vietnam
 permalink: /events/olj2023/
 variant: markdown
 description: ""

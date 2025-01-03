@@ -15,6 +15,9 @@ third_nav_title: Events
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec_1_MPS.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -27,7 +30,8 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/2025-sec1-meet-the-parents-session-3-jan-2025/" rel="noopener nofollow" target="_blank">2025 Sec1 MPS (3 Jan 2025)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/events/2025sec1information" rel="noopener noreferrer nofollow" target="_blank">2025 Sec1 Information</a>
@@ -105,15 +109,15 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/events/schoolcarnival2023/" rel="noopener noreferrer nofollow" target="_blank">2023 School Carnival</a>
+<p><a href="/events/schoolcarnival2023/" rel="noopener noreferrer nofollow" target="_blank">School Carnival</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/rhd2023/" rel="noopener noreferrer nofollow" target="_blank">2023 Racial Harmony Day</a>
+<p><a href="/events/rhd2023/" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Day</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/ndp2023/" rel="noopener noreferrer nofollow" target="_blank">2023 National Day Celebration</a>
+<p><a href="/events/ndp2023/" rel="noopener noreferrer nofollow" target="_blank">National Day Celebration</a>
 </p>
 </td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-title: Graduation Day (21 Sep 2023)
+title: Graduation Day
 permalink: /events/gradday2023/
 variant: markdown
 description: ""

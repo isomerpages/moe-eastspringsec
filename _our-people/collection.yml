@@ -3,6 +3,4 @@ collections:
     output: true
     order:
       - School Management Committee.md
-      - Departments/Main.md
-      - Departments/.keep
       - Form Teachers.md

@@ -1,5 +1,5 @@
 ---
-title: National Day (9 Aug 2023)
+title: National Day
 permalink: /events/ndp2023/
 variant: markdown
 description: ""

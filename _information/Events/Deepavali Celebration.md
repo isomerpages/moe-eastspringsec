@@ -1,5 +1,5 @@
 ---
-title: Deepavali Celebration (16 Oct 2023)
+title: Deepavali Celebration
 permalink: /events/deepavali2023/
 variant: markdown
 description: ""

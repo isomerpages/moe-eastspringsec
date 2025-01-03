@@ -1,5 +1,5 @@
 ---
-title: School Carnival (19 July 2023)
+title: School Carnival
 permalink: /events/schoolcarnival2023/
 variant: markdown
 description: ""

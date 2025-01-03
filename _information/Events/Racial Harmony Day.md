@@ -1,5 +1,5 @@
 ---
-title: Racial Harmony Day (21 July 2023)
+title: Racial Harmony Day
 permalink: /events/rhd2023/
 variant: markdown
 description: ""
