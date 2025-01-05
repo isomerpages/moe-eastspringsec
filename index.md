@@ -7,7 +7,7 @@ permalink: /
 notification: For information for 2025 Secondary One, please scroll down the page.
 sections:
   - hero:
-      background: /images/Events/Landing_page_option_2.jpg
+      background: /images/2025/YSR50817__60__.jpg
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
