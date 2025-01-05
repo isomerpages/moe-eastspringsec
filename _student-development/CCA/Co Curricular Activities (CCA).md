@@ -33,22 +33,10 @@ values and essential competencies through the CCA S.H.A.R.E. Routine</p>
 etc.)</p>
 <p>Core Leadership Programme where CCA leaders go through a rigorous training
 programme designed by the Community Youth Leadership Committee.</p>
-<h4><strong>CCA Training Schedule 2024</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Uniform_Groups.JPG">
-</div>
+<h4><strong>CCA Training Schedule 2025</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Sports_and_Games.JPG">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Performing_Arts.JPG">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Clubs_and_Societies.JPG">
-</div>
 <h4><strong>Key Events / Activities</strong></h4>
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/student-development/cca/ncc/" rel="noopener noreferrer nofollow" target="">National Cadet Corps (NCC Land) - (Boys)</a> 
 <br><a href="/student-development/cca/ncdcc/" rel="noopener noreferrer nofollow" target="">National Civil Defence Cadet Corps (NCDCC)</a>&nbsp;
