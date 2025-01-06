@@ -5,5 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<p>The slides will be made available on the following week after the event
-for one week. Thank you.</p>
+<p>Thank you for attending the Sec 1 MPS on 3rd Jan 2025 evening. The slides
+is available <a href="/files/2025/2025_S1_MPS_Slides_edited_for_school_s_website.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
