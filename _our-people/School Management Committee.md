@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Veronica Tan Wan Yee</p>
+<p>Mrs Veronica Tan Wan Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Educational Support)</p>
@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shu Fen</p>
+<p>Mdm Tan Shu Fen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Humanities)</p>
@@ -140,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Farhanah Bte Samsudin</p>
+<p>Mdm Farhanah Bte Samsudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Science)</p>
