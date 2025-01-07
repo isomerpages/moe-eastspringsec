@@ -35,18 +35,20 @@ etc.)</p>
 programme designed by the Community Youth Leadership Committee.</p>
 <h4><strong>CCA Training Schedule 2025</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA02.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_S1_CCA_schedule_01_UGs.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA03.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_S1_CCA_schedule_02_sports.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA04.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_S1_CCA_schedule_03_Performing_Arts.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_S1_CCA_schedule_04_Clubs.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA05.png">
 </div>
 <h4><strong>Key Events / Activities</strong></h4>
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/student-development/cca/ncc/" rel="noopener noreferrer nofollow" target="">National Cadet Corps (NCC Land) - (Boys)</a> 
