@@ -54,10 +54,9 @@ programme designed by the Community Youth Leadership Committee.</p>
 <br><a href="/student-development/cca/scouts/" rel="noopener noreferrer nofollow" target="">Scouts</a> 
 <br><a href="/student-development/cca/sjb/" rel="noopener noreferrer nofollow" target="">St John Brigade (SJB)</a>
 </p>
-<p><strong><u>Clubs and Societies:<br></u></strong><a href="/student-development/cca/art-club/" rel="noopener noreferrer nofollow" target="">Art Club</a> 
+<p><strong><u>Clubs and Societies:</u></strong>
 <br><a href="/student-development/cca/ava/" rel="noopener noreferrer nofollow" target="">AVA Club</a> 
 <br><a href="/student-development/cca/journalism-club/" rel="noopener noreferrer nofollow" target="">Journalism Club</a> 
-<br><a href="/student-development/cca/environmental-science-club/" rel="noopener noreferrer nofollow" target="">Environmental Science Club</a>
 </p>
 <p><strong><u>Performing Arts:<br></u></strong><a href="/student-development/cca/chinese-dance/" rel="noopener noreferrer nofollow" target="">Chinese Dance</a> 
 <br><a href="/student-development/cca/choir/" rel="noopener noreferrer nofollow" target="">Choir</a> 
