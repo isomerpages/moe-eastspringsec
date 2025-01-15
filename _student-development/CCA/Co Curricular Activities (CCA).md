@@ -56,7 +56,7 @@ programme designed by the Community Youth Leadership Committee.</p>
 </p>
 <p><strong><u>Clubs and Societies:</u></strong>
 <br><a href="/student-development/cca/ava/" rel="noopener noreferrer nofollow" target="">AVA Club</a> 
-<br><a href="/student-development/cca/journalism-club/" rel="noopener noreferrer nofollow" target="">Journalism Club</a> 
+<br><a href="/student-development/cca/journalism-club/" rel="noopener noreferrer nofollow" target="">Journalism Club</a>
 </p>
 <p><strong><u>Performing Arts:<br></u></strong><a href="/student-development/cca/chinese-dance/" rel="noopener noreferrer nofollow" target="">Chinese Dance</a> 
 <br><a href="/student-development/cca/choir/" rel="noopener noreferrer nofollow" target="">Choir</a> 
