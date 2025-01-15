@@ -36,19 +36,16 @@ programme designed by the Community Youth Leadership Committee.</p>
 <h4><strong>CCA Training Schedule 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Slide2_final.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA03.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Slide3_final.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA04.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Slide4_final.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA05.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Slide5_final.jpg">
 </div>
 <h4><strong>Key Events / Activities</strong></h4>
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/student-development/cca/ncc/" rel="noopener noreferrer nofollow" target="">National Cadet Corps (NCC Land) - (Boys)</a> 
