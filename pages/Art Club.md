@@ -2,7 +2,6 @@
 title: Art Club
 permalink: /student-development/cca/art-club/
 description: ""
-third_nav_title: CCA
 variant: tiptap
 ---
 <table>

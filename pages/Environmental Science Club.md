@@ -2,7 +2,6 @@
 title: Environmental Science Club
 permalink: /student-development/cca/environmental-science-club/
 description: ""
-third_nav_title: CCA
 variant: tiptap
 ---
 <table>
