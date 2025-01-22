@@ -33,20 +33,7 @@ values and essential competencies through the CCA S.H.A.R.E. Routine</p>
 etc.)</p>
 <p>Core Leadership Programme where CCA leaders go through a rigorous training
 programme designed by the Community Youth Leadership Committee.</p>
-<h4><strong>CCA Training Schedule 2025</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Slide2_final.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Slide3_final.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Slide4_final.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Slide5_final.jpg">
-</div>
+<h4><a href="https://docs.google.com/presentation/d/1u1mOTrCCpY4b-xlQi19GmzlwBVC_nZ5JrTXozJws8Ms/edit#slide=id.p1" rel="noopener nofollow" target="_blank">CCA Training Schedule 2025</a></h4>
 <h4><strong>Key Events / Activities</strong></h4>
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/student-development/cca/ncc/" rel="noopener noreferrer nofollow" target="">National Cadet Corps (NCC Land) - (Boys)</a> 
 <br><a href="/student-development/cca/ncdcc/" rel="noopener noreferrer nofollow" target="">National Civil Defence Cadet Corps (NCDCC)</a>&nbsp;
