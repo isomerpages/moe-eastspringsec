@@ -83,7 +83,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>Please click&nbsp;<a href="/files/2025/ESSS_SEd.pdf" rel="noopener nofollow" target="_blank">here</a> for&nbsp;Sexuality
+<p>Please click&nbsp;<a href="https://drive.google.com/file/d/1EwkZob-7mlzQBrJMWcv06j4GJZ7L5I_W/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> for&nbsp;Sexuality
 Education lessons that will be taught at East Spring Secondary School in
 2025.</p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
