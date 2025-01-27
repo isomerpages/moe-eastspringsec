@@ -115,17 +115,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/2025/ANNEX_A_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> </a>(please
-upload parents opt-out form found in Annex <strong>A</strong> and insert
-a hyperlink for parents to download the form). The completed form is to
-be submitted by 31/01/2025.</p>
+of the year and is also downloadable <a href="/files/2025/ANNEX_A_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The
+completed form is to be submitted by 31/01/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="/files/2025/ANNEX_B_e_Teens_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> </a>(please
-upload parents opt-out form found in Annex <strong>B</strong> and insert
-a hyperlink for parents to download the form).&nbsp; The completed form
-is to be submitted by 31/01/2025.</p>
+the year and is also downloadable <a href="/files/2025/ANNEX_B_e_Teens_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;
+The completed form is to be submitted by 31/01/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 65873805
 or <a rel="noopener noreferrer nofollow" target="_blank">esss@moe.edu.sg</a>&nbsp;[Attn:
 Mdm Maria Lim] for discussion or to seek clarification about the school’s
