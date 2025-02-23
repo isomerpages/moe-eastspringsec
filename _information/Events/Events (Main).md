@@ -41,7 +41,8 @@ third_nav_title: Events
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 Sec3 MPS (21 Feb 2025)</p>
+<p><a href="/events/2025-sec-3-meet-the-parents-session-21-feb-2025/" rel="noopener nofollow" target="_blank">2025 Sec3 MPS (21 Feb 2025)</a>
+</p>
 </td>
 </tr>
 </tbody>
