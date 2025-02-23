@@ -26,6 +26,9 @@ third_nav_title: Events
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec3_MPS.png">
+</div>
 </th>
 </tr>
 <tr>
@@ -38,7 +41,7 @@ third_nav_title: Events
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 Sec3 MPS (21 Feb 2025)</p>
 </td>
 </tr>
 </tbody>
