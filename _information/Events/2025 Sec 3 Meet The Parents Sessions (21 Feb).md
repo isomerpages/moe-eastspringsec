@@ -8,4 +8,10 @@ variant: markdown
 2025 Sec 3 Meet-The-Parents Session (21 Feb 2025)
 ----------------------------------------------------
 
-Thank you parents for attending the MPS. Please click [here](/files/2025/Sec_3_MPS_20_Feb_2025.pdf) for the slides shared during the session.
+Thank you parents for attending the MPS. 
+
+Below are the slides shared during the session
+
+1) [by ESSS School Leaders](/files/2025/Sec_3_MPS_20_Feb_2025.pdf)
+2) [by TMJC](https://drive.google.com/file/d/109o68lAt5-L33jz4rSLHP2O0gtcLuw1e/view?usp=sharing)
+3) [by ITE College](/files/2025/ITE_College_Talk__2025__compressed.pdf)
