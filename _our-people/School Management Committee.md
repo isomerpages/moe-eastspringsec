@@ -44,6 +44,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Phay Chye Hock Adrian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Admin)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Aubury Ong</p>
 </td>
 <td rowspan="1" colspan="1">
