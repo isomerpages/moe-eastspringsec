@@ -16,48 +16,6 @@ third_nav_title: Events
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec_1_MPS.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024%20Sec1%20Info%20(P_S)/Sec1_thumbnail.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec3_MPS.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/2025-sec1-meet-the-parents-session-3-jan-2025/" rel="noopener nofollow" target="_blank">2025 Sec1 MPS (3 Jan 2025)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/events/2025sec1information" rel="noopener noreferrer nofollow" target="_blank">2025 Sec1 Information</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/events/2025-sec-3-meet-the-parents-session-21-feb-2025/" rel="noopener nofollow" target="_blank">2025 Sec3 MPS (21 Feb 2025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail_02.jpg">
 </div>
 </th>
@@ -89,6 +47,48 @@ third_nav_title: Events
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec_1_MPS.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024%20Sec1%20Info%20(P_S)/Sec1_thumbnail.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec3_MPS.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/2025-sec1-meet-the-parents-session-3-jan-2025/" rel="noopener nofollow" target="_blank">2025 Sec1 MPS (3 Jan 2025)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/events/2025sec1information" rel="noopener noreferrer nofollow" target="_blank">2025 Sec1 Information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/events/2025-sec-3-meet-the-parents-session-21-feb-2025/" rel="noopener nofollow" target="_blank">2025 Sec3 MPS (21 Feb 2025)</a>
+</p>
 </td>
 </tr>
 </tbody>
