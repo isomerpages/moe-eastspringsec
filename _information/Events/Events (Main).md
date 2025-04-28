@@ -16,6 +16,52 @@ third_nav_title: Events
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail_02.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/events/2025-sec-4-5-meet-the-parents-session-25-april-2025/" rel="noopener nofollow" target="_blank">2025 Sec4&amp;5 MPS (25 April 2025)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec_1_MPS.png">
 </div>
 </th>
