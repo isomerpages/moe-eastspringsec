@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcements.md
+      - Events/2025 Sec2 Meet The Parents Session (9 May).md
       - Events/.keep
       - Events/Events (Main).md
       - Events/2025 Sec4&5 Meet the Parents Session (25 April 2025).md
