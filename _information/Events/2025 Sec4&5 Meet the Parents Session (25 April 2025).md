@@ -9,4 +9,3 @@ variant: markdown
 
 Thank you parents for attending the MPS.
 
-Click [here](/files/2025/Slides_for_2025_Sec_4_5_MPS__SLs__v3__sch_website_.pdf) for the slides shared during the session.
