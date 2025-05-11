@@ -5,4 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<p>Thank you</p>
+<p><strong>2025 Sec 2 Meet-The-Parents Session (9 May 2025)</strong>
+</p>
+<p>Thank you parents for attending the MPS.</p>
