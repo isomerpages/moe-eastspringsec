@@ -7,5 +7,5 @@ third_nav_title: Events
 ---
 <p><strong>2025 Sec 2 Meet-The-Parents Session (9 May 2025)</strong>
 </p>
-<p>Thank you parents for attending the MPS. The slides will be uploaded here
-by 13 May.</p>
+<p>Thank you parents for attending the MPS.</p>
+<p>Click *here* for the slides shared during the session.</p>
