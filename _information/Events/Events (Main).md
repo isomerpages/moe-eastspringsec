@@ -21,6 +21,9 @@ third_nav_title: Events
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -32,7 +35,8 @@ third_nav_title: Events
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/2025-sec2-meet-the-parents-session-9-may/" rel="noopener nofollow" target="_blank">2025 Sec2 MPS (9 May 2025)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
