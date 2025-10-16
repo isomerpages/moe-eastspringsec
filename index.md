@@ -4,7 +4,7 @@ title: East Spring Secondary School
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: For information for 2025 Secondary One, please scroll down the page.
+notification: For details about our ESSS Open House 2025, please scroll down.
 sections:
   - hero:
       background: /images/2025/YSR50817__60__.jpg
