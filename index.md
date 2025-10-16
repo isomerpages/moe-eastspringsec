@@ -27,4 +27,5 @@ sections:
       id: infopic
       image: /images/ESSS_Open_House_2025.jpg
       title: ESSS Open House 2025
+      alt: .
 ---
