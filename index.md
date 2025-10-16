@@ -29,4 +29,8 @@ sections:
       description: Please click the link below.
       url: /events/2025sec1information/
       button: Sec 1 Posting Information
+  - infopic:
+      id: infopic
+      image: /images/ESSS_Open_House_2025.jpg
+      alt: Image alt text
 ---
