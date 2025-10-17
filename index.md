@@ -4,7 +4,7 @@ title: East Spring Secondary School
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: For information for 2025 Secondary One, please scroll down the page.
+notification: For details about our ESSS Open House 2025, please scroll down.
 sections:
   - hero:
       background: /images/2025/YSR50817__60__.jpg
@@ -23,10 +23,11 @@ sections:
           url: https://www.instagram.com/eastspringsec/
       variant: center
       url: /events/2024sec1information/
-  - infobar:
-      title: Information for 2025 Secondary One students
-      id: infobar
-      description: Please click the link below.
-      url: /events/2025sec1information/
-      button: Sec 1 Posting Information
+  - infopic:
+      id: infopic
+      image: /images/ESSS_Open_House_2025.jpg
+      title: ESSS Open House 2025
+      alt: .
+      url: https://forms.moe.edu.sg/forms/Jm7lkn
+      button: Click here to register
 ---
