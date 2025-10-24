@@ -34,7 +34,7 @@ etc.)</p>
 <p>Core Leadership Programme where CCA leaders go through a rigorous training
 programme designed by the Community Youth Leadership Committee.</p>
 <h4><a href="https://docs.google.com/presentation/d/1u1mOTrCCpY4b-xlQi19GmzlwBVC_nZ5JrTXozJws8Ms/edit#slide=id.p1" rel="noopener nofollow" target="_blank">CCA Training Schedule 2025</a></h4>
-<h4><a href="https://docs.google.com/spreadsheets/d/1rLZVdTDQkfH0o3aDprSHU22hln5L_OLBipLG5JZwNhQ/edit?gid=231692348#gid=231692348" rel="noopener nofollow" target="_blank">CCA Training Schedule June Holidays 2025</a></h4>
+<h4><a href="https://docs.google.com/spreadsheets/d/1Q6SdZ9mTMeK3QFQTl3THIpsYo1NfKkRpj96objo48iQ/edit?gid=627386405#gid=627386405" rel="noopener nofollow" target="_blank">CCA Holiday Schedule</a></h4>
 <h4><strong>Key Events / Activities</strong></h4>
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/student-development/cca/ncc/" rel="noopener noreferrer nofollow" target="">National Cadet Corps (NCC Land) - (Boys)</a> 
 <br><a href="/student-development/cca/ncdcc/" rel="noopener noreferrer nofollow" target="">National Civil Defence Cadet Corps (NCDCC)</a>&nbsp;
