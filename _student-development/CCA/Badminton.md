@@ -12,8 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>About the CCA&nbsp;</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
