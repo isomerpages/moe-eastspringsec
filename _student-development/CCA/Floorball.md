@@ -56,22 +56,22 @@ to pursue their sporting aspirations, including Direct School Admission
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026/Floorball01.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/Floorball01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Floorball02.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/Floorball02.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026/Floorball03.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/Floorball03.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2026/Floorball04.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/Floorball04.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Floorball05.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/Floorball05.jpg">
 </div>
 <p></p>
