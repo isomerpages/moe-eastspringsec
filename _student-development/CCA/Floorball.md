@@ -5,28 +5,73 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="590">
-<p style="text-align: center;"><strong>About the CCA&nbsp;</strong></p>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2026/Floorball_Logo_01.jpg">
+</div>
+<p><strong>About the CCA&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td width="590">
-<p><strong>CCA Name:<br></strong>Floorball Boys&nbsp;</p>
-<p><strong>Our CCA:<br></strong>'<em>A Team above All, above All a Team</em>'. In the Floorball Boys CCA, we believe in the importance of teamwork, self-reflection and building a strong camaraderie between the players to ensure that we strive together as one to achieve our goals.&nbsp;</p>
-<p>The East Spring Floorball Boys CCA is made up of resilient, disciplined and respectful individuals with a passion for excellence in the sport. Anchored with sportsmanship and school values, players train 2-3 times a week to hone their technical skills and build physical strength.&nbsp;</p>
-<p>Students are taught and developed to grow as leaders as they are empowered to provide inputs into how to improve CCA sessions and they are also guided to plan, execute and review activities such as bonding sessions and VIA projects.</p>
-<p><strong>Our Achievements:<br></strong>2019 'B' Div National Floorball Championships (4th)<br>2018 'C' Div National Floorball Championships (2nd)</p>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Name:<br></strong>Floorball</p>
+<p><strong>Our CCA:<br></strong>The East Spring Floorball team strives to
+nurture sportsmanship, teamwork, and leadership among its players. Through
+rigorous training sessions twice a week, students sharpen their stick-handling
+techniques, game strategies, and on-court awareness while building stamina
+and endurance. Beyond skill development, the CCA fosters camaraderie and
+resilience as students learn to support one another both on and off the
+court.</p>
+<p>Our players regularly participate in friendly matches and represent the
+school in the National School Games (NSG), gaining valuable competitive
+experience. The CCA also serves as a springboard for passionate players
+to pursue their sporting aspirations, including Direct School Admission
+(DSA) opportunities, as they grow into confident and disciplined players.</p>
+<p><strong>Our Achievements:<br></strong><u>2025</u>
+</p>
+<p>‘B’ Division Girls – National (Top8)</p>
+<p>‘B’ Division Boys- National Preliminary Stage (Round 2)</p>
+<p>‘C’ Division Girls –League 2 (Top 4)</p>
+<p>‘C’ Division Boys- League 2 (Preliminary Round)</p>
+<p></p>
+<p><u>2024</u>
+</p>
+<p>‘B’ Division Girls – National (Top8)</p>
+<p>‘B’ Division Boys- National Preliminary Stage (Round 2)</p>
+<p>‘C’ Division Girls –League 2 (Top 4)</p>
+<p>‘C’ Divion Boys- Group Stage (League 2) <em>Promotion from L3 to L2</em>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqC46GNKc-G79mA5zQhArWgTAtIQPlpT9-UbBaQ5Uj5hVS_FlIVyXjRWzg5SUpwurDVXm1g1LvejIG/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<p><strong>CCA Name:<br></strong>Floorball (Girls)</p>
-<p><strong>Our CCA:<br></strong>The Floorball girls in East Spring Secondary School are made up of students who are passionate about Floorball. The CCA has a strong emphasis on physical and mental resilience with the girls constantly honing their skills to the best of their ability.</p>
-<p>All these efforts culminate towards the annual National Floorball Championships in January and July. They also participate in other Floorball competitions and carnivals organised by external organisations and other schools.&nbsp;</p>
-<p>Students are provided with leadership training and platforms to hone their leadership capabilities. The trainings sessions, physical training, enrichment activities and annual camps help to impart important values and competencies to develop the girls holistically with the aim of enabling the girls to not only be successful in school but also their future endeavours upon graduation.</p>
-<p><strong>Our Achievements:<br></strong>2019: 'B' Div Second Round, 'C' Div First Round<br>2018: Both 'B' and 'C' Div Second Round<br>2017: 'B' Div 3rd, 'C' Div Second Round</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1eJjTqGPWsiZB7fQxrjAL11BvuSStfKEkBOdgBXienR35BClSMghfXKFSjZ1nyfe-qRS7t9wQlVVi/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/Floorball01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/Floorball02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/Floorball03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/Floorball04.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/Floorball05.jpg">
+</div>
+<p></p>
