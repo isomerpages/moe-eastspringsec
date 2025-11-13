@@ -45,6 +45,10 @@ up.&nbsp;</p>
 <p>Northland Secondary School Netball Carnival, ‘B’ and ‘C’ Division 3<sup>rd</sup> runner
 up.&nbsp;</p>
 <p>NSG 'B' and 'C' Division Netball Competitions, Representation</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Netball05.jpg">
+</div>
 </td>
 </tr>
 </tbody>
