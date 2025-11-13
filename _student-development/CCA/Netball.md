@@ -47,25 +47,25 @@ up.&nbsp;</p>
 <p>NSG 'B' and 'C' Division Netball Competitions, Representation</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Netball01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Friendly match with CHIJ Katong Convent at Kallang Netball Centre 2025" src="/images/2026/Netball01.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/2026/Netball02.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="Northland Secondary School Carnival at Kallang Netball Centre 2025" src="/images/2026/Netball02.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/2026/Netball03.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="East Spring Netball ‘C’ Division - National School Games 2025" src="/images/2026/Netball03.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/2026/Netball04.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="Our Secondary 4s B Division 2025" src="/images/2026/Netball04.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/2026/Netball05.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="Our East Spring Netball Team 2024" src="/images/2026/Netball05.jpg">
 </div>
 <p></p>
