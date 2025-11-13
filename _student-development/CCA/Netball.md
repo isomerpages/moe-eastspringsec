@@ -5,24 +5,48 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="590">
-<p style="text-align: center;"><strong>About the CCA&nbsp;</strong></p>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2026/Logo.jpg">
+</div>
+<p><strong>About the CCA&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td width="590">
+<td rowspan="1" colspan="1">
 <p><strong>CCA Name:<br></strong>Netball</p>
-<p><strong>Our CCA:<br></strong>East Spring Netball (ESNB) is built on a strong legacy of young women who have a passion for excellence both on and off the court. We believe in holistic development for all the girls and work towards achieving their full potential, both in academic and non-academic pursuits. We emphasize the importance of responsibility, respect, integrity, character and team work through a myriad of programmes in our trainings. ESNB aims to develop these young women to be confident and excellent individuals.</p>
-<p>We take part in a number of competitions each year, including the National Schools Games ‘B’ and ‘C’ Division Competitions, Daisy Tan Carnival, Deloitte PESTA Sukan Carnival, M1 Netball Challenge amongst others. Students are also given the opportunity to develop and realize their latent leadership potential as they are invited to provide input into how to improve CCA sessions. They are also guided to plan, execute and review activities like bonding sessions and VIA projects.</p>
-<p><strong>Our Achievements: <br></strong>2019</p>
-<p style="padding-left: 40px;">Springfield Netball Carnival, Champion, 2nd Runner Up<br>NSG 'B' and 'C' Division Netball Competitions, Representation</p>
-<p>2018</p>
-<p style="padding-left: 40px;">M1 Schools Netball Challenge, 1st Runner Up<br>NSG 'B' and 'C' Division Netball Competitions, Representation</p>
+<p><strong>Our CCA:<br>East Spring Netball (ESNB</strong>) is committed to
+nurture young women with a passion for excellence, both on and off the
+court. We believe in developing our girls holistically and supporting them
+in achieving their fullest potential in academic and non-academic pursuits.
+Through our training programmes, we emphasise values such as responsibility,
+respect, integrity, character, and teamwork. ESNB strives to shape our
+players into confident, resilient, and well-rounded individuals.&nbsp;</p>
+<p>Our team participates actively in various competitions each year, including
+the National School Games ‘B’ and ‘C’ Division Championships, Daisy Tan
+Carnival, and the Deloitte PESTA Sukan Carnival among others. Beyond competitions,
+our students are also given opportunities to explore and grow their leadership
+potential. They are encouraged to contribute ideas to improve CCA sessions,
+and are guided to plan, execute, and review initiatives such as bonding
+activities and CCA camps.</p>
+<p><strong>Our Achievements: <br></strong>2024</p>
+<p>Springfield Secondary School Netball Carnival, ‘B’ Division, 2<sup>nd</sup> runner
+up.&nbsp;</p>
+<p>NSG 'B' and 'C' Division Netball Competitions, Representation</p>
+<p>2025</p>
+<p>Northland Secondary School Netball Carnival, ‘B’ and ‘C’ Division 3<sup>rd</sup> runner
+up.&nbsp;</p>
+<p>NSG 'B' and 'C' Division Netball Competitions, Representation</p>
 </td>
 </tr>
 </tbody>
 </table>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSf_4HwwGzqWipHZCBSg5t21X3hpRdPP1o5jveF2K1qxv-LQ6qbzs5q7QeqSKL4JEvzLkUPzvwymjU4/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p></p>
