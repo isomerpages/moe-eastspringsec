@@ -90,7 +90,7 @@ third_nav_title: Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025 Booklist</p>
+<p>2026 Booklist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.eastspringsec.moe.edu.sg/information/students/booklist/" rel="noopener noreferrer nofollow" target="_blank">https://www.eastspringsec.moe.edu.sg/information/students/booklist</a>
