@@ -15,7 +15,7 @@ third_nav_title: Students
 <p><strong>Operating hours:</strong>
 </p>
 <p>Selected dates as stated in the</p>
-<p><a href="/files/2025/Uniform_Order_Form_2025.pdf" rel="noopener nofollow" target="_blank">Uniform Order Form 2025</a>
+<p><a href="/files/2026/Uniform_Order_Form_2026.pdf" rel="noopener nofollow" target="_blank">Uniform Order Form 2026</a>
 </p>
 <p>For enquiries:</p>
 <p>Phone: 6764 3102
