@@ -73,7 +73,7 @@ on the same day.</p>
 <p>Please note that there will be no sales of books and uniform on 24 and
 25 December 2025.</p>
 <p>Students who wish to put in a <u>new application</u> for 2026 FAS can <strong><u>apply online</u> </strong>by
-submitting an eFAS application via <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a> with
+submitting an eFAS application via <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a> with
 all relevant supporting documents from 19 December 2025.</p>
 <p><strong><u>In Case of Enquiries</u></strong>
 </p>
@@ -81,7 +81,7 @@ all relevant supporting documents from 19 December 2025.</p>
 Office at the following contacts:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Form SG: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1esssqueries</a>
+<p>Form SG: <a href="https://go.gov.sg/s1esssqueries" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1esssqueries</a>
 </p>
 </li>
 <li>
