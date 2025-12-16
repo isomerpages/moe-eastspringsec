@@ -15,7 +15,7 @@ third_nav_title: Students
 <p><strong>Operating hours:</strong>
 </p>
 <p>Selected dates as stated in the</p>
-<p><a href="/files/2026/Uniform_Order_Form_2026.pdf" rel="noopener nofollow" target="_blank">Uniform Order Form 2026</a>
+<p><a href="/files/2026/ESSS_Uniform_Order_Form_2026_v2.pdf" rel="noopener nofollow" target="_blank">Uniform Order Form file2026</a>
 </p>
 <p>For enquiries:</p>
 <p>Phone: 6764 3102
@@ -28,7 +28,7 @@ third_nav_title: Students
 <h4><strong>Pacific Bookstores Pte Ltd</strong></h4>
 <p><strong>Operating hours:</strong>
 </p>
-<p><a href="https://www.eastspringsec.moe.edu.sg/information/students/booklist/" rel="noopener noreferrer nofollow" target="">Selected dates as stated in the Booklist</a>
+<p><a href="/information/students/booklist/" rel="noopener noreferrer nofollow" target="">Selected dates as stated in the Booklist</a>
 </p>
 <p><strong>For enquiries:</strong>
 </p>

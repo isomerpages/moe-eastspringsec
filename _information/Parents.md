@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong>Information</strong>
 </p>
-<p><a href="/events/2024-sec-1-meet-the-parents-session-5-jan-2024/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Meet The Parents - 5 Jan 2024</a>
+<p><a href="/files/2026/Information_for_2026_Sec_1_Parents__School_Website__v2.pdf" rel="noopener nofollow" target="_blank">Information for 2026 Secondary 1 Parents</a>
 </p>
 <p></p>
 <p><strong>Parent Gateway</strong>
