@@ -21,7 +21,7 @@ to the assigned classrooms at the first level.</p>
 <p><strong><u>Purchase of Textbooks and School Uniform</u></strong>
 </p>
 <p>You are encouraged to purchase your textbooks and uniforms online and
-opt for home delivery. <strong>Please wait for the instructions for the purchase of books and uniforms, which will be sent to you via Parents Gateway (PG) before you make any purchase.</strong> Alternatively,
+opt for home delivery. <strong>Please wait for the instructions for the purchase of books and uniforms, which will be sent to you via Parents Gateway (PG), before you make any purchase.</strong> Alternatively,
 you may choose to come to the school to purchase your textbooks and school
 uniforms from 9 am to 3 pm.</p>
 <ul data-tight="true" class="tight">
