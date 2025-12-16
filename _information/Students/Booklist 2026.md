@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p><a href="/files/2026/SEC1.pdf" rel="noopener nofollow" target="_blank">2026 SEC 1 booklist</a>
+<p><a href="/files/2026/ESSS_Sec_1_Booklist_Sec_1_2026_v2.pdf" rel="noopener nofollow" target="_blank">2026 SEC 1 booklist</a>
 </p>
 <p><a href="/files/2026/SEC2.pdf" rel="noopener nofollow" target="_blank">2026 SEC 2 booklist</a>
 </p>
