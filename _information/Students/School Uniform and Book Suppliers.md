@@ -15,8 +15,7 @@ third_nav_title: Students
 <p><strong>Operating hours:</strong>
 </p>
 <p>Selected dates as stated in the</p>
-<p><a href="/files/2026/Uniform_Order_Form_2026.pdf" rel="noopener nofollow" target="_blank">Uniform Order Form </a>
-<a href="/files/2026/ESSS_Uniform_Order_Form_2026_v2.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2026/Uniform_Order_Form_2026.pdf" rel="noopener nofollow" target="_blank">2026</a>
+<p><a href="/files/2026/ESSS_Uniform_Order_Form_2026_v2.pdf" rel="noopener nofollow" target="_blank">Uniform Order Form file2026</a>
 </p>
 <p>For enquiries:</p>
 <p>Phone: 6764 3102
