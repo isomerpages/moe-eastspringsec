@@ -77,8 +77,6 @@ submitting an eFAS application via <a rel="noopener noreferrer nofollow" target=
 all relevant supporting documents from 19 December 2025.</p>
 <p><strong><u>In Case of Enquiries</u></strong>
 </p>
-<p>Please click&nbsp;<a href="https://go.gov.sg/s1regesss" rel="noopener noreferrer nofollow" target="_blank">here</a> (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1regesss</a>)
-for the FAQs.</p>
 <p>If you have any questions, you may email us or call the school General
 Office at the following contacts:</p>
 <ul data-tight="true" class="tight">
