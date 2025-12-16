@@ -32,4 +32,10 @@ sections:
           announcement: Click on the link for more information.
           link_text: 2026 Sec1
           link_url: /events/2026sec1information/
+  - infobar:
+      title: Sec 1 Appeal
+      id: infobar
+      description: 2026 Secondary 1 Appeal for Tansfer Into ESSS
+      button: Click here
+      url: https://go.gov.sg/esssappealin
 ---
