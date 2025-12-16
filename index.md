@@ -35,7 +35,7 @@ sections:
   - infobar:
       title: Sec 1 Appeal
       id: infobar
-      description: 2026 Secondary 1 Appeal for Tansfer Into ESSS
+      description: 2026 Secondary 1 Appeal for Transfer Into ESSS
       button: Click here
       url: https://go.gov.sg/esssappealin
 ---
