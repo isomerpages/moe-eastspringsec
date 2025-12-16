@@ -32,20 +32,14 @@ sections:
           announcement: Click on the link for more information.
           link_text: 2026 Sec1
           link_url: /events/2026sec1information/
-        - title: 2026 Sec 2 to 4 (Uniform)
+        - title: 2026 Sec 1 Appeal
+          date: 15 December 2025
+          announcement: Click on the link to appeal.
+          link_text: 2026 Secondary 1 Appeal for Transfer Into ESSS
+          link_url: https://go.gov.sg/esssappealin
+        - title: 2026 Sec 2 to 4 (Uniforms & Books)
           date: 24 November 2025
           announcement: Click on the link for more information.
-          link_text: 2026 School Uniform
+          link_text: 2026 Uniforms & Books
           link_url: /information/students/school-uniforms-pe-attire/
-        - title: 2026 Sec 2 to 4 (Booklists)
-          date: 24 November 2025
-          announcement: Click on the link for more information.
-          link_text: 2026 Booklists
-          link_url: /information/students/booklist/
-  - infobar:
-      title: Sec 1 Appeal
-      id: infobar
-      description: 2026 Secondary 1 Appeal for Transfer Into ESSS
-      button: Click here
-      url: https://go.gov.sg/esssappealin
 ---
