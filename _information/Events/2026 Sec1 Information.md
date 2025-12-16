@@ -20,11 +20,10 @@ reporting area. In the event of wet weather, students will report directly
 to the assigned classrooms at the first level.</p>
 <p><strong><u>Purchase of Textbooks and School Uniform</u></strong>
 </p>
-<p>You are encouraged to make your purchase of textbooks (refer to attached
-booklist) and uniforms online and opt for home delivery. We will provide
-more information via Parents Gateway (PG). Alternatively, you can choose
-to come to the school to purchase your textbooks and school uniforms from
-9 am to 3 pm.</p>
+<p>You are encouraged to purchase your textbooks and uniforms online and
+opt for home delivery. <strong>Please wait for the instructions for the purchase of books and uniforms, which will be sent to you via Parents Gateway (PG) before you make any purchase.</strong> Alternatively,
+you may choose to come to the school to purchase your textbooks and school
+uniforms from 9 am to 3 pm.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who have been offered all subjects at G3 level: Please purchase
@@ -51,6 +50,7 @@ your HMTL books. We will send the Letter of Offer via PG by 22 December
 </ul>
 <p>Please note that there will be no sales of books and uniform on 24 and
 25 December 2025.</p>
+<p>You may find the booklists and uniform order form <a href="https://www.eastspringsec.moe.edu.sg/information/announcements/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong><u>School Smart Card (SSC)</u></strong>
 </p>
 <p>All students entering Secondary One in January 2026 will be issued with
