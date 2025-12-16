@@ -32,6 +32,16 @@ sections:
           announcement: Click on the link for more information.
           link_text: 2026 Sec1
           link_url: /events/2026sec1information/
+        - title: 2026 Sec 2 to 4 (Uniform)
+          date: 24 November 2025
+          announcement: Click on the link for more information.
+          link_text: 2026 School Uniform
+          link_url: /information/students/school-uniforms-pe-attire/
+        - title: 2026 Sec 2 to 4 (Booklists)
+          date: 24 November 2025
+          announcement: Click on the link for more information.
+          link_text: 2026 Booklists
+          link_url: /information/students/booklist/
   - infobar:
       title: Sec 1 Appeal
       id: infobar
