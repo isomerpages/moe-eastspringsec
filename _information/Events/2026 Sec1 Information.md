@@ -50,7 +50,7 @@ your HMTL books. We will send the Letter of Offer via PG by 22 December
 </ul>
 <p>Please note that there will be no sales of books and uniform on 24 and
 25 December 2025.</p>
-<p>You may find the booklists and uniform order form <a href="https://www.eastspringsec.moe.edu.sg/information/announcements/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>You may find the booklists and uniform order form <a href="/information/announcements/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong><u>School Smart Card (SSC)</u></strong>
 </p>
 <p>All students entering Secondary One in January 2026 will be issued with
