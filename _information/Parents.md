@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong>Information</strong>
 </p>
-<p><a href="/files/2026/Information_for_2026_Sec_1_Parents.pdf" rel="noopener nofollow" target="_blank">Information for 2026 Secondary 1 Parents</a>
+<p><a href="/files/2026/Information_for_2026_Sec_1_Parents__School_Website__v2.pdf" rel="noopener nofollow" target="_blank">Information for 2026 Secondary 1 Parents</a>
 </p>
 <p></p>
 <p><strong>Parent Gateway</strong>
