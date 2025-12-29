@@ -44,6 +44,9 @@ thinking abilities.</p>
 <p>SASMO 2025 Results: 1 Gold, 3 Silver, 8 Bronze and 5 Honourable Mention
 Awards</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Math_SASMO_2025.jpg">
+</div>
 <p>SASMO 2024 Results: 1 Gold, 1 Silver, 4 Bronze and 3 Honourable Mentions</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SASMO_Awards.jpg">
