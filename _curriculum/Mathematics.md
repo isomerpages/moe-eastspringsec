@@ -45,7 +45,8 @@ thinking abilities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SASMO_Awards.jpg">
 </div>
-<p></p>
+<p>SASMO 2025 Results: 1 Gold, 3 Silver, 8 Bronze and 5 Honourable Mention
+Awards</p>
 <p><strong>3. 'Learn &amp; Apply' Math</strong>
 </p>
 <p>Bridging mathematical concepts to everyday life, 'Learn &amp; Apply' Math
