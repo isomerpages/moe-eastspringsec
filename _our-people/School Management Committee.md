@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Chee Hui</p>
+<p>Mr Lim Pia Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (EO)</p>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Pia Leong</p>
+<p>Mr Anil Vasudevan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (EO)</p>
@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maria Lim</p>
+<p>Mdm Veronica Tan Wan Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Character &amp; Citizenship Education)</p>
@@ -92,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Veronica Tan Wan Yee</p>
+<p>Mdm Noreha Bte Nordin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Educational Support)</p>
@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noreha Bte Nordin</p>
+<p>Mdm Lim Siow Ying Maria</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (English Language)</p>
@@ -156,6 +156,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Yeo Pei Xing Stephanie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (CCE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jan Yap (Tam Shook Yin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Educational Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul 'Ain Binte Supingi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (English)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Daryl Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,10 +196,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Tay Nian Zi, Sabrina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head (Science)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Daneesh Akbar Bin Mohd Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Management)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Sherilyn Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Secondary Two)</p>
+<p>Assistant Year Head (Secondary Three)</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +223,7 @@ variant: tiptap
 <p>Mrs Lena Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Secondary Three)</p>
+<p>Assistant Year Head (Secondary Four and Five)</p>
 </td>
 </tr>
 <tr>
@@ -196,5 +236,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><em>Updated 01 Jan 2025</em>
+<p><em>Updated 03 Jan 2026</em>
 </p>
