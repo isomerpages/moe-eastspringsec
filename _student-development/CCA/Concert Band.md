@@ -5,21 +5,49 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="590">
-<p style="text-align: center;"><strong>About the CCA&nbsp;</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>About the CCA&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td width="590">
+<td rowspan="1" colspan="1">
 <p><strong>CCA Name:<br></strong>Concert Band</p>
-<p><strong>Our CCA:<br></strong>The East Spring Symphonic Band has an enrolment of about 60 members. The band comprises of three sections – the Woodwind Section, Brass Section and the Percussion Section. Under the guidance of our current Band Director, Mr Song Jiada Gabriel, and Junior Section Band Conductor, Mr Pan Ziwen, the band continues to strive towards excellence in their performances.&nbsp;</p>
-<p>Through the rigorous trainings and consistent exposure to performances, our ESSB members are developed into confident performers who understand the value of teamwork. Importantly, it inculcates the value of resilience and the spirit of striving for excellence. The CCA further aims to provide a platform for students who have the passion for music to perform with confidence and to develop their leadership potential. Students will be given the opportunity to grow as leaders as they are invited to provide input into how to improve CCA sessions and are also guided to plan, execute and review activities like bonding sessions, VIA projects and the like.</p>
-<p><strong>Our Achievements:<br></strong>2016 National Band Competition Bronze<br>2017 Singapore Youth Festival Certificate of Accomplishment<br>2019 Singapore Youth Festival Certificate of Accomplishment</p>
+<p><strong>Our CCA:<br></strong>The East Spring Concert Band (ESB) comprises
+about 50 members from the Woodwind, Brass and Percussion families, representing
+a wide range of instruments across these three groups. Under the direction
+of our Main Band Conductor, Mr Hoe Kong Foo, and Junior Band Conductor,
+Mr Tan Aik Koon, the band fosters a supportive and purposeful environment
+for students to grow in musical skill, core values, and personal confidence.</p>
+<p></p>
+<p>In 2025, ESB represented the school at the Singapore Youth Festival Arts
+Presentation (SYF AP), performing <em>Overture No. 1</em> by Dr Kelly Tang
+and <em>Air Force One</em> by William Owens. Through focused preparation,
+resilience, and synergy, the band exemplified their motto “One Band, One
+Sound” and earned the Certificate of Commendation. Additional experiences,
+such as an inter-school exchange and a school showcase, further strengthened
+members’ performance exposure and camaraderie.</p>
+<p></p>
+<p>Student leadership is built progressively in ESB. Senior members may also
+take on Executive Committee roles where they support section management,
+assist with rehearsals and concert preparations, and, for selected leaders,
+conduct the band for certain pieces. They also work with the band teacher
+to strengthen belonging and ensure smooth operations. Junior members focus
+on developing instrumental and ensemble skills.</p>
+<p><strong>Our Achievements:<br></strong>2025 Singapore Youth Festival Arts
+Presentation: Certificate of Commendation</p>
+<p>2023 Singapore Youth Festival Arts Presentation: Certificate of Commendation</p>
+<p></p>
+<p>Click <a href="https://docs.google.com/presentation/d/1r711ZE2IBhsLxVSsF2Qn1NRJyBMD5JFvNdJYHXjDL08/edit?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+view photos of the Concert Band.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTplviPXXRMS3Q8QY8S5VlUY2GO4rST8BAauF3gUJeNlrZCEQE-9dsDEp6sTS2mgCKqAjGw76nfIloN/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p></p>
