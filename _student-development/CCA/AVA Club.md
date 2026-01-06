@@ -5,21 +5,53 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="590">
-<p style="text-align: center;"><strong>About the CCA</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>About the CCA</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td width="590">
+<td rowspan="1" colspan="1">
 <p><strong>CCA Name:<br></strong>AVA Club</p>
-<p><strong>Our CCA:<br></strong>AVA Club takes care of all matters relating to the provision of audio and visual support in East Spring Secondary School. Our day-to-day operations include maintaining the sound system for the daily flag-raising and assembly.</p>
-<p>In addition, we also ensure the smooth running of school events in the school hall such as Racial Harmony Day and National Day. Beyond school-wide support, AVA club also supports other CCAs and school committees through providing updated and functioning AVA equipment for their various programmes.</p>
-<p>All AVA students are also trained in Robotics Programming during the weekly CCA training sessions. Selected students will participate in the annual World Robotics Competition (WRC) organised by the Singapore Science Centre.</p>
-<p>Through the execution of these duties, AVA students learn a myriad of skills related to the audio and visual field which can be applicable in not just their daily lives but possibly in their future careers. Moreover, they embody and demonstrate the school values of Respect, Responsibility, Resilience and Synergy.&nbsp;</p>
+<p></p>
+<p><strong>Our CCA:</strong>
+</p>
+<p>The AVA Club provides audio and visual support in East Spring Secondary
+School. Our day-to-day operations include maintaining the sound system
+for daily flag-raising and assembly programmes.</p>
+<p></p>
+<p>The AVA Club also ensures the smooth running of school events held in
+the school hall, such as Secondary 1 Campfire, Secondary 4 Graduation,
+festive celebrations, and Parent-Teacher Conferences. Beyond school-wide
+support, the AVA Club supports other CCAs and school committees by providing
+AVA equipment for their various programme needs.</p>
+<p></p>
+<p>All AVA students are trained in relevant digital literacy and technological
+skills, such as AI, coding, and robotics, during weekly CCA training sessions.
+Selected students also participate in relevant competitions.</p>
+<p></p>
+<p>Through the execution of these duties, students develop a wide range of
+skills related to the audio-visual field and emerging technologies, which
+are applicable not only in their daily lives but also in their future aspirations.</p>
+<p></p>
+<p>Moreover, they embody and demonstrate the school values of <strong>Respect</strong> for
+others, <strong>Responsibility</strong> in carrying out their duties, <strong>Resilience</strong> in
+problem-solving involving AI, coding, and robotics, and <strong>Synergy</strong> across
+juniors and seniors within the CCA.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="AI Generate Image on Jan 2026 by ChatGPT" src="/images/2026/ChatGPT_Image_Jan_6__2026__03_53_56_PM.png">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p>OpenAI. (2026). <em>AVA Club vector illustration (audio-visual and applied technology theme)</em>.
+Generated using DALL·E.</p>
