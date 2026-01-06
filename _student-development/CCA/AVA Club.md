@@ -38,8 +38,9 @@ Selected students also participate in relevant competitions.</p>
 <p></p>
 <p>Through the execution of these duties, students develop a wide range of
 skills related to the audio-visual field and emerging technologies, which
-are applicable not only in their daily lives but also in their future aspirations.
-Moreover, they embody and demonstrate the school values of <strong>Respect</strong> for
+are applicable not only in their daily lives but also in their future aspirations.</p>
+<p></p>
+<p>Moreover, they embody and demonstrate the school values of <strong>Respect</strong> for
 others, <strong>Responsibility</strong> in carrying out their duties, <strong>Resilience</strong> in
 problem-solving involving AI, coding, and robotics, and <strong>Synergy</strong> across
 juniors and seniors within the CCA.
