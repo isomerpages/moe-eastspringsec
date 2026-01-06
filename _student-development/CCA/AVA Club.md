@@ -42,12 +42,11 @@ are applicable not only in their daily lives but also in their future aspiration
 Moreover, they embody and demonstrate the school values of <strong>Respect</strong> for
 others, <strong>Responsibility</strong> in carrying out their duties, <strong>Resilience</strong> in
 problem-solving involving AI, coding, and robotics, and <strong>Synergy</strong> across
-juniors and seniors within the CCA.</p>
-<p>
+juniors and seniors within the CCA.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="AI Generate Image on Jan 2026 by ChatGPT" src="/images/2026/ChatGPT_Image_Jan_6__2026__03_53_56_PM.png">
+<img style="width: 80%;" height="auto" width="100%" alt="AI Generate Image on Jan 2026 by ChatGPT" src="/images/2026/ChatGPT_Image_Jan_6__2026__03_53_56_PM.png">
 </div>
 </td>
 </tr>
