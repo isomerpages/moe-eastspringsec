@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mr Lim Pia Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (EO)</p>
+<p>Vice-Principal (EO)</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Mr Anil Vasudevan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (EO)</p>
+<p>Vice-Principal (EO)</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mr Phay Chye Hock Adrian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Admin)</p>
+<p>Vice-Principal (Admin)</p>
 </td>
 </tr>
 <tr>
