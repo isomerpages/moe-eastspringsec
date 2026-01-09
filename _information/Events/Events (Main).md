@@ -103,33 +103,24 @@ third_nav_title: Events
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20OLJ%20(Vietnam)/OLJthumbnail.jfif">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20Teachers'%20Day/TDthumbnail.jfif">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20Graduation%20Day/Gradthumbnail.jfif">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/events/olj2023" rel="noopener noreferrer nofollow" target="_blank">Overseas Learning Journey [Vietnam]</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/td2023" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day celebration</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/gradday2023" rel="noopener noreferrer nofollow" target="_blank">2023 Graduation Day</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -201,7 +192,8 @@ third_nav_title: Events
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/events/td2023" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day celebration</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
