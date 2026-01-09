@@ -5,4 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<p>Thank you for attending the Sec 1 MPS on 3rd Jan 2025 evening.</p>
+<p>Thank you for attending the Sec 1 MPS on 9th Jan 2026 evening.</p>
+<p></p>
+<p>Please click for the information shared during the session.</p>
