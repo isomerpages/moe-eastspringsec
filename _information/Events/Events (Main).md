@@ -14,32 +14,33 @@ third_nav_title: Events
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2023_Grad_Day_thumbnail.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec_1_MPS.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024%20Sec1%20Info%20(P_S)/Sec1_thumbnail.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/events/2025-sec-4-5-meet-the-parents-session-25-april-2025/" rel="noopener nofollow" target="_blank">2025 Sec4&amp;5 MPS (25 April 2025)</a>
+<p><a href="/information-for-2025-o-level-students/" rel="noopener nofollow" target="_blank">Information for 2025 O Level students</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/2025-sec2-meet-the-parents-session-9-may/" rel="noopener nofollow" target="_blank">2025 Sec2 MPS (9 May 2025)</a>
+<p><a href="/2026-sec1-meet-the-parents-session-9-jan-2026/" rel="noopener nofollow" target="_blank">2026 Sec1 MPS (9 Jan 2026)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/events/2026sec1information" rel="noopener noreferrer nofollow" target="_blank">2026 Sec1 Information</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,14 +65,13 @@ third_nav_title: Events
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/2024_Sec_1_MPS.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2024%20Sec1%20Info%20(P_S)/Sec1_thumbnail.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail_02.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -83,11 +83,11 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/2025-sec1-meet-the-parents-session-3-jan-2025/" rel="noopener nofollow" target="_blank">2025 Sec1 MPS (3 Jan 2025)</a>
+<p><a href="/2025-sec2-meet-the-parents-session-9-may/" rel="noopener nofollow" target="_blank">2025 Sec2 MPS (9 May 2025)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/2026sec1information" rel="noopener noreferrer nofollow" target="_blank">2026 Sec1 Information</a>
+<p><a href="/events/2025-sec-4-5-meet-the-parents-session-25-april-2025/" rel="noopener nofollow" target="_blank">2025 Sec4&amp;5 MPS (25 April 2025)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,33 +106,24 @@ third_nav_title: Events
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20OLJ%20(Vietnam)/OLJthumbnail.jfif">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20Teachers'%20Day/TDthumbnail.jfif">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/2023%20Graduation%20Day/Gradthumbnail.jfif">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/events/olj2023" rel="noopener noreferrer nofollow" target="_blank">Overseas Learning Journey [Vietnam]</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/td2023" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day celebration</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/gradday2023" rel="noopener noreferrer nofollow" target="_blank">2023 Graduation Day</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -204,7 +195,8 @@ third_nav_title: Events
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/events/td2023" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day celebration</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
