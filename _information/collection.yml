@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Announcements.md
-      - Events/Information for 2025 O Level Students.md
       - Events/.keep
       - Events/Events (Main).md
+      - Events/Information for 2025 O Level Students.md
       - Events/2026 Sec1 Meet The Parents Session (9 Jan 2026).md
       - Events/2026 Sec1 Information.md
       - Events/2025 Sec2 Meet The Parents Session (9 May).md
