@@ -31,7 +31,8 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2026 O Level Result (Information)</p>
+<p><a href="/information-for-2025-o-level-students/" rel="noopener nofollow" target="_blank">Information for 2025 O Level students</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/2026-sec1-meet-the-parents-session-9-jan-2026/" rel="noopener nofollow" target="_blank">2026 Sec1 MPS (9 Jan 2026)</a>
