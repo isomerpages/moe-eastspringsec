@@ -7,5 +7,3 @@ third_nav_title: Events
 ---
 <p>Thank you for attending the Sec 1 MPS on 9th Jan 2026 evening.</p>
 <p></p>
-<p>Please click <a href="/files/2026/2026_S1_MPS_Slides_Website_for_parents.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the information shared during the session.</p>
