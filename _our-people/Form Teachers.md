@@ -41,7 +41,7 @@ variant: tiptap
 <p>Mr Han Jianguang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nanthini</p>
+<p>Ms Nanthini Vasuthevan</p>
 </td>
 </tr>
 <tr>
