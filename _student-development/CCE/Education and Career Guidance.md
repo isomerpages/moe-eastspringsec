@@ -5,7 +5,10 @@ description: ""
 variant: tiptap
 third_nav_title: CCE
 ---
-<p>&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/ECG01.jpg">
+</div>
 <p><em>EDUCATION &amp; CAREER GUIDANCE</em>
 </p>
 <p>At East Spring Secondary School, our Education and Career Guidance (ECG)
@@ -15,6 +18,9 @@ to develop their future potential and career readiness.</p>
 <p><em>GOALS OF ECG</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/ECG02.jpg">
+</div>
 <p>Our ECG goals support students in:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -97,10 +103,7 @@ Module</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><em>POST-SECONDARY EDUCATION PATHWAYS &amp; OPPORTUNITIES</em>
 </p>
 <p>Education &amp; Career Guidance supports you in taking your next step
@@ -110,44 +113,42 @@ decision regarding your choice of post-secondary education institutions
 and courses.</p>
 <p>Review the infographics below to understand the post-secondary admission
 exercises in 2026 for Sec 4 and 5 students:</p>
-<p><em>sec 4(e) &amp; sec 5n(a)</em>
+<p><em>SEC 4(E) &amp; SEC 5N(A)</em>
 </p>
 <p></p>
-<p><em>SEC 4N(A) &amp; 4n(T)</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/ECG03.jpg">
+</div>
+<p><em>SEC 4N(A) &amp; 4N(T)</em>
 </p>
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/ECG04.jpg">
+</div>
 <p>&nbsp;</p>
 <p>Students currently in Sec 1, 2 and 3 undergo secondary school experience
 and post-secondary school pathways under Full Subject-Based Banding (Full
 SBB). The Full SBB post-secondary school pathways are illustrated in the
 infographic below:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/ECG05.jpg">
+</div>
 <p><a href="https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/secondary-school-experience" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education (MOE)</a>;
 <a href="https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/main" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding (Full SBB)</a>
 </p>
 <p>Besides providing more flexibility in subject options, Full SBB also allows
 students to learn in mixed form classes where they can interact with peers
 of different strengths and interests.</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 <p>From 2028, changes to post-secondary options and admissions criteria will
 be implemented. This change is illustrated in the infographic below:</p>
 <p>&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/ECG06.jpg">
+</div>
 <p>ESSS students are encouraged to consult the school ECG Counsellor to explore
 the multiple pathways and take necessary action(s) to reach their goals.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><em><br></em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>Post-secondary education – ECG Resources</em>
+<p><em>Post-Secondary Education – ECG Resources</em>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Post-Secondary Education comprises
 the paths our students can take after they complete their secondary school
