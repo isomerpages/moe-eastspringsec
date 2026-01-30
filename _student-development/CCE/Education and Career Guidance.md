@@ -117,13 +117,13 @@ exercises in 2026 for Sec 4 and 5 students:</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/ECG03.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2026/ECG03.jpg">
 </div>
 <p><em>SEC 4N(A) &amp; 4N(T)</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/ECG04.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2026/ECG04.jpg">
 </div>
 <p>&nbsp;</p>
 <p>Students currently in Sec 1, 2 and 3 undergo secondary school experience
