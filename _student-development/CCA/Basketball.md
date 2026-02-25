@@ -42,6 +42,15 @@ it in every area of their life as a student.</p>
 Games (Boys/Girls - ‘B’ and ‘C’ Divisions)
 <br>2024 Participated in National School Games (Boys/Girls - ‘B’ and ‘C’ Divisions)</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Basketball01.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Basketball02.jpg">
+</div>
 </td>
 </tr>
 </tbody>
