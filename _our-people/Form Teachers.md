@@ -225,7 +225,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Jun Keat</p>
+<p>Mr Goh Jun Keat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
