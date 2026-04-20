@@ -31,7 +31,7 @@ sections:
           date: 15 December 2025
           announcement: Click on the link for more information.
           link_text: 2027 Sec1 DSA
-          link_url: /events/2026sec1information/
+          link_url: /information/dsa/
         - title: 2026 Sec 2 to 4 (Uniforms & Books)
           date: 24 November 2025
           announcement: Click on the link for more information.
