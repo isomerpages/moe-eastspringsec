@@ -28,7 +28,7 @@ sections:
       id: announcements
       announcement_items:
         - title: 2026 DSA information (for 2027 Sec)
-          date: 15 December 2025
+          date: 20 April 2026
           announcement: Click on the link for more information.
           link_text: 2027 Sec1 DSA
           link_url: /information/dsa/
