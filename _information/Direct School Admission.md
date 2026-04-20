@@ -45,7 +45,7 @@ consistent effort in studies and Co-Curricular Activity (CCA).</p>
 </ul>
 <p><strong>Interview</strong>
 </p>
-<p>We will be conducting in-person selection in the 2025 DSA-Sec exercise.
+<p>We will be conducting in-person selection in the 2026 DSA-Sec exercise.
 Shortlisted DSA-Sec (Leadership) applicants will be informed to attend
 an in-person interview at our school.&nbsp;</p>
 <p>&nbsp;</p>
