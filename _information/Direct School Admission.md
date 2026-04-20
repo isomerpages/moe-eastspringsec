@@ -52,16 +52,22 @@ an in-person interview at our school.&nbsp;</p>
 <p><strong>Application process</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE website –&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from <strong><u>6 May 2026, 11am to 2 Jun 2026, 4.30pm</u></strong>.
+For more details, please refer to MOE website –&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
+<p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
-<p>All applicants will receive their application outcomes between 25 Aug
-and 4 Sep 2025.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants. Please note that meeting all
+the criteria does not guarantee that the student would be shortlisted/
+given an offer.</p>
+<p>You will receive notification from the school by 24 Jul 2026, if your
+child has been shortlisted to undergo Direct School Admission (DSA) selection.
+All applicants will receive their application outcomes between 17 and 28
+Aug 2026.</p>
 <p></p>
