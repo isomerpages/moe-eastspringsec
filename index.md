@@ -27,16 +27,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2026 Sec 1 Information
+        - title: 2026 DSA information (for 2027 Sec)
           date: 15 December 2025
           announcement: Click on the link for more information.
-          link_text: 2026 Sec1
-          link_url: /events/2026sec1information/
-        - title: 2026 Sec 1 Appeal
-          date: 15 December 2025
-          announcement: Click on the link to appeal.
-          link_text: 2026 Secondary 1 Appeal for Transfer Into ESSS
-          link_url: https://go.gov.sg/esssappealin
+          link_text: 2027 Sec1 DSA
+          link_url: /information/dsa/
         - title: 2026 Sec 2 to 4 (Uniforms & Books)
           date: 24 November 2025
           announcement: Click on the link for more information.
