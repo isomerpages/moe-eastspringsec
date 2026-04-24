@@ -66,12 +66,12 @@ third_nav_title: Events
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail_02.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbnails/MPS_thumbnail.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -82,11 +82,11 @@ third_nav_title: Events
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/2025-sec2-meet-the-parents-session-9-may/" rel="noopener nofollow" target="_blank">2025 Sec2 MPS (9 May 2025)</a>
+<p><a href="/events/2026-sec-4-5-meet-the-parents-session-10-april-2026/" rel="noopener nofollow" target="_blank">2026 Sec4&amp;5 MPS (10 April 2026)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/events/2025-sec-4-5-meet-the-parents-session-25-april-2025/" rel="noopener nofollow" target="_blank">2025 Sec4&amp;5 MPS (25 April 2025)</a>
+<p><a href="/2026-sec2-meet-the-parents-session-8-may/" rel="noopener nofollow" target="_blank">2026 Sec2 MPS (8 May 2026)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
