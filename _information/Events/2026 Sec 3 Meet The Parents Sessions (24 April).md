@@ -9,4 +9,4 @@ variant: markdown
 ----------------------------------------------------
 
 Thank you parents for attending the session. 
-The information shared during the session will be upload here soon. 
+The information shared during the session will be upload here soon.
