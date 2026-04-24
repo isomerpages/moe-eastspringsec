@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Events
 variant: markdown
 ---
-## 2025 Sec 4&5 Meet-The-Parents Session (25 April 2025)
+## 2026 Sec 4&5 Meet-The-Parents Session (10 April 2026)
 
 Thank you parents for attending the MPS.
-
